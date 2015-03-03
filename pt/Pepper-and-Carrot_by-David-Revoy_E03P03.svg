@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -653,8 +653,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="880.09318"
-     inkscape:cy="4003.6372"
+     inkscape:cx="519.43366"
+     inkscape:cy="626.22363"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -743,7 +743,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="flowPara5840">    Vamos </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara4326">ganhar isso!</flowPara></flowRoot>  </g>
+         id="flowPara4326">   detonar!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"

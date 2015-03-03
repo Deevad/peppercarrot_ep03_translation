@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="712.75376"
-     inkscape:cy="1938.1529"
+     inkscape:cx="297.99532"
+     inkscape:cy="1161.3478"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -154,7 +154,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024-5">... é exatamente isso que eu preciso !</flowPara></flowRoot>    <flowRoot
+         id="flowPara3024-5">... é exatamente disso que eu preciso !</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5-9"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -174,13 +174,13 @@
        transform="matrix(0.92300618,0,0,0.94952226,1639.3353,2014.0918)"><flowRegion
          id="flowRegion2989-5-5-8"><rect
            id="rect2991-7-8-5"
-           width="542.33197"
-           height="212.55368"
+           width="533.31482"
+           height="268.06769"
            x="81.712257"
            y="259.98184"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131">Se arruma ai que vamos atrás desses ingredientes juntos!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3131">Se arruma ai porque nós vamos atrás desses ingredientes!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

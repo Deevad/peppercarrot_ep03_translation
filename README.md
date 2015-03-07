@@ -17,6 +17,8 @@ License
 
 * French     : David Revoy
 
+* Japanese   : guruguru
+
 * Portuguese : Frederico Batista
 
 * Spanish    : TheFaico
@@ -29,6 +31,10 @@ License
 
 * Robokoz  by Ray Larabie, rlarabie@hotmail.com 
 [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
+
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
+[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+
 
 ## Artworks : 
 

@@ -11,11 +11,13 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * English    : David Revoy, Amireti
 
 * French     : David Revoy
+
+* German     : Helmar Suschka / Alexandra Jordan
 
 * Japanese   : guruguru
 
@@ -29,14 +31,14 @@ License
 * Lavi by Ruben Holthuijsen aka Rholt
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-* Robokoz  by Ray Larabie, rlarabie@hotmail.com 
+* Robokoz  by Ray Larabie, rlarabie@hotmail.com
 [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 
 * Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
-## Artworks : 
+## Artworks :
 
 * David Revoy, www.peppercarrot.com
 

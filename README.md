@@ -23,6 +23,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Sinhala    : Tharinda Divakara
+
 * Spanish    : TheFaico
 
 * Dutch      : Willem Sonke
@@ -38,6 +40,9 @@ License
 
 * Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+
+* Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
+[Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
 
 
 ## Artworks :

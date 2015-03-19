@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.25487718"
+     inkscape:cx="668.27986"
+     inkscape:cy="1928.1784"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/dimitrisax/Επιφάνεια εργασίας/pepper&amp;carrot/peppercarrot_ep03_translation-master/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 126.43162,957.64638 c 7.66798,-75.1112 71.5674,-132.54917 120.13095,-144.69951 48.56354,-12.15034 223.64791,-2.20915 241.53973,0 17.89193,2.20915 116.29701,34.24187 140.57873,74.00663 24.28183,39.76474 -10.22384,150.2223 -66.45537,175.6277 -56.23143,25.4052 -224.92592,45.2876 -249.20773,40.8693 -24.28173,-4.4183 -195.53217,-39.7648 -186.58631,-145.80412 z"
+       id="path3021"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 733.88311,1085.2688 c -44.306,12.9389 -54.1082,2.7446 -64.3025,-9.8023 -10.1943,-12.5468 -18.0361,-25.0936 -28.6225,-25.8778 -10.5864,-0.7842 -23.9174,4.313 -33.3275,9.4101 -9.4102,5.0972 -16.507,-1.9213 -25.1329,-8.9789 -8.626,-7.0576 -62.695,-32.5825 -62.695,-32.5825 0,0 18.8203,41.1693 28.6225,51.7557 9.8022,10.5864 13.331,14.5073 18.4281,17.644 5.0972,3.1367 18.8203,9.0181 29.7988,6.2734 10.9785,-2.7446 19.9965,-10.5864 27.8383,-14.5072 7.8417,-3.9209 21.1532,-0.549 30.9554,7.2928 9.8022,7.8418 34.739,22.2706 51.9909,15.9972 17.2519,-6.2734 26.4464,-16.6245 26.4464,-16.6245 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1218.2577,3155.9098 c 3.0714,-84.998 155.0467,-94.5282 233.6511,-99.5988 78.6045,-5.0706 287.2086,-22.8177 365.8131,45.6355 78.6045,68.4533 36.2791,129.3006 -12.0929,147.0477 -48.3719,17.7472 -69.5348,50.7062 -105.8137,50.7062 -36.279,0 -324.5028,6.3986 -398.1876,-27.5188 -39.2953,-18.0879 -86.4414,-31.2737 -83.37,-116.2718 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1116.307,3102.8707 c 15.5043,16.6969 26.238,26.8343 36.3754,25.6417 10.1374,-1.1926 22.0637,-1.789 29.2196,-11.33 7.1558,-9.5411 22.0637,-19.6785 28.6232,-17.2933 6.5595,2.3853 30.4122,11.9264 38.7607,29.2196 8.3484,17.2932 25.0453,-21.4674 25.0453,-21.4674 0,0 -23.2564,-25.6417 -28.6232,-28.6233 -5.3669,-2.9816 -19.6785,-16.1006 -42.3386,-0.5963 -22.6601,15.5043 -33.3938,32.7975 -45.3202,36.9717 -11.9263,4.1742 -31.0085,0.5963 -41.7422,-12.5227 z"
+       id="path3137"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(19.281208,578.51091)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="468.97498"
+           height="297.14545"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+         id="flowPara3019">... λίγα τσόφλια αυγού από την κοιλάδα ηφαιστείων του φοίνικα ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-0"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(1099.171,2841.7216)"><flowRegion
+         id="flowRegion2989-9"><rect
+           id="rect2991-9"
+           width="612.42712"
+           height="390.21426"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:56px;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita"
+         id="flowPara3117">... και τέλος, μιά σταγόνα γάλα απο μία μικρή δρακο-αγελάδα ...</flowPara></flowRoot>  </g>
+</svg>

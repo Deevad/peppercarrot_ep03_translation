@@ -19,6 +19,8 @@ License
 
 * German     : Helmar Suschka / Alexandra Jordan
 
+* Greek      : Dimitris Axiotis
+
 * Japanese   : guruguru
 
 * Portuguese : Frederico Batista
@@ -37,6 +39,12 @@ License
 
 * Robokoz  by Ray Larabie, rlarabie@hotmail.com
 [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
+
+* Pecita by OFL user Pecita
+[OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+
+* VAG-HandWritten by Vangelis Makridakis
+[GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten), [link](http://www.fontsquirrel.com/fonts/VAG-HandWritten)
 
 * Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)

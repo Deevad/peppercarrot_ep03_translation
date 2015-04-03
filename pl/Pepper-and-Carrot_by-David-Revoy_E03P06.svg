@@ -44,25 +44,25 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="833.73756"
-     inkscape:cy="1600.4161"
+     inkscape:cx="775.47718"
+     inkscape:cy="2429.933"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Przemek!\Desktop\peppercarrot_ep03_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-10-02_ep03_The-secret-ingredients/lang/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -99,7 +99,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-63.111416,572.62572)"><flowRegion
+       transform="translate(-63.111416,583.72294)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="676.91821"
@@ -107,12 +107,12 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara2995"
-         style="font-size:48px;text-align:center;text-anchor:middle">... do tego skorupy jaj</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3015">Phoenix'a</flowPara><flowPara
+         id="flowPara3352">... do tego skorupy jaj</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3019">z doliny wuklanów ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3019">Feniksa z doliny </flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3356">wuklanów ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"

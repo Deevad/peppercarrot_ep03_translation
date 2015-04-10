@@ -27,6 +27,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Russian    : Denis "uncle Night" Prisukhin
+
 * Sinhala    : Tharinda Divakara
 
 * Spanish    : TheFaico
@@ -59,6 +61,9 @@ License
 * Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
 [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
 
+* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+
+* Gabriela by Eduardo Tunni, [SIL Open Font License](http://scripts.sil.org/OFL), [link](http://www.fontspace.com/eduardo-tunni/gabriela)
 
 ## Artworks :
 
@@ -73,6 +78,3 @@ Infos :
 - Ressources added in this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
 
 - Do not edit or propose a commit for the artworks in this repositories. Artworks here are low-resolution proxy files only. The real hi-res layered artworks,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
-
-
-

@@ -23,7 +23,11 @@ License
 
 * Greek      : Dimitris Axiotis
 
+* Italian    : Carlo Gandolfi
+
 * Japanese   : guruguru
+
+* Polish     : Przemysław "Kev" Chudzia
 
 * Portuguese : Frederico Batista
 
@@ -34,8 +38,6 @@ License
 * Spanish    : TheFaico
 
 * Ukrainian  : Leonid "Deburger" Androschuk
-
-* Polish     : Przemysław "Kev" Chudzia
 
 
 ## Fonts:

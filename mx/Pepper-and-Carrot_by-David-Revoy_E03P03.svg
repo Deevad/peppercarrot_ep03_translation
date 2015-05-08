@@ -588,15 +588,6 @@
          id="stop3383" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-0-4"
-       id="linearGradient5443-3-1-6"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
        id="linearGradient3386">
       <stop
          style="stop-color:#ad5d0f;stop-opacity:1;"
@@ -1077,15 +1068,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5427-1-0-4"
-       id="linearGradient3983"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-0-4"
        id="linearGradient3985"
        gradientUnits="userSpaceOnUse"
        x1="618.94147"
@@ -1146,6 +1128,51 @@
        y1="2316.8098"
        x2="1024.5358"
        y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-0-4"
+       id="linearGradient3609"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-0-4"
+       id="linearGradient3611"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-0-4"
+       id="linearGradient3613"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-0-4"
+       id="linearGradient3615"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-0-4"
+       id="linearGradient3617"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -1162,7 +1189,7 @@
      showgrid="false"
      inkscape:zoom="0.31343545"
      inkscape:cx="694.89246"
-     inkscape:cy="843.51697"
+     inkscape:cy="1353.9889"
      inkscape:window-x="1918"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1175,11 +1202,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep03_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -1261,8 +1288,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3484);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(0.73192907,-0.18720078,0.47982518,0.76449899,-694.32355,631.83794)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3484);fill-opacity:1;stroke:none"
+       transform="matrix(0.73192907,-0.18720078,0.47982518,0.76449899,-735.79939,571.2194)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
            id="rect3759"
@@ -1271,13 +1298,13 @@
            x="296.72992"
            y="1655.0723"
            style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3761"
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient5443-3-1-6);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz" /><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient5443-3-1-6);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
-         id="flowPara3252">Concurso de Pociones</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3609);fill-opacity:1"
+         id="flowPara3252">Concurso </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3611);fill-opacity:1"
+         id="flowPara3607">de Pociones</flowPara><flowPara
          id="flowPara3775"
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient5445-2-3-1);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">de Komona</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.63957111,-0.16433206,0.40979715,0.70030268,-426.93903,870.46642)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient5445-2-3-1);fill-opacity:1">de Komona</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.63957111,-0.16433206,0.40979715,0.70030268,-455.65308,803.46698)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3993);fill-opacity:1;stroke:none"
        id="flowRoot3951"
        xml:space="preserve"><flowRegion
@@ -1289,14 +1316,18 @@
            height="841.94098"
            width="943.26337"
            id="rect3955" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3983);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3613);fill-opacity:1"
          id="flowPara3963" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3983);fill-opacity:1"
-         id="flowPara3250">Gran Premio de 50 000Ko</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3615);fill-opacity:1"
+         id="flowPara3250">Gran Premio</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3617);fill-opacity:1"
+         id="flowPara3603">50 000Ko</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3985);fill-opacity:1"
-         id="flowPara3971">A LA MEJOR POCIÓN</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.75035189,-0.22142045,0.52533261,0.77383898,-503.24573,1085.0559)"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient4052);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3971">A LA MEJOR</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3985);fill-opacity:1"
+         id="flowPara3619"> POCIÓN</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.75035189,-0.22142045,0.52533261,0.77383898,-484.10303,1116.9604)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient4052);fill-opacity:1;stroke:none"
        id="flowRoot4010"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient4034);fill-opacity:1"
@@ -1307,9 +1338,9 @@
            height="841.94098"
            width="943.26337"
            id="rect4014" /></flowRegion><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4048);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient4048);fill-opacity:1"
          id="flowPara4028">Azarday, 3 Pinkmoon</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4050);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient4050);fill-opacity:1"
          id="flowPara4030">Plaza Mayor de Komona</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4054"

@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 03 : The secret ingredient
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -18,6 +18,8 @@ License
 * English    : David Revoy, Amireti
 
 * French     : David Revoy
+
+* Catalan     : Juan José Segura
 
 * German     : Helmar Suschka / Alexandra Jordan
 

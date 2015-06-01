@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors :
 
+* Arabic     : Mahwiii
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy, Amireti
@@ -44,30 +46,29 @@ License
 
 ## Fonts:
 
-* Lavi by Ruben Holthuijsen aka Rholt
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-* Robokoz  by Ray Larabie, rlarabie@hotmail.com
-[CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
+* Latin: Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* Blogger by Sergiy S. Tkachenko
-[CC-BY](http://creativecommons.org/licenses/by/3.0/), [link](http://openfontlibrary.org/en/font/blogger-sans)
+* Latin: Robokoz  by Ray Larabie, rlarabie@hotmail.com [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 
-* Pecita by OFL user Pecita
-[OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+* Russian: Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* VAG-HandWritten by Vangelis Makridakis
-[GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten), [link](http://www.fontsquirrel.com/fonts/VAG-HandWritten)
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html) [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
-* Rounded-mplus-1c-medium.ttf from Rounded M+ by MM
-[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+* Arabic: Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php),  [link](http://openfontlibrary.org/en/font/midan-normal)
 
-* Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
-[Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+* Arabic: Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
 
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* Arabic: Alhor by Nadim Shaikli[GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
 
-* Gabriela by Eduardo Tunni, [SIL Open Font License](http://scripts.sil.org/OFL), [link](http://www.fontspace.com/eduardo-tunni/gabriela)
+* Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+
+* Greek: Pecita by OFL user Pecita [OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+
+* (?) VAG-HandWritten by Vangelis Makridakis [GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten), [link](http://www.fontsquirrel.com/fonts/VAG-HandWritten)
+
+* (?) Gabriela by Eduardo Tunni, [SIL Open Font License](http://scripts.sil.org/OFL), [link](http://www.fontspace.com/eduardo-tunni/gabriela)
+
 
 ## Artworks :
 

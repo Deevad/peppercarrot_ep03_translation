@@ -19,6 +19,8 @@ License
 
 * English    : David Revoy, Amireti
 
+* Esperanto  : librefan.eu.org
+
 * French     : David Revoy
 
 * Catalan     : Juan José Segura
@@ -42,6 +44,8 @@ License
 * Spanish    : TheFaico
 
 * Ukrainian  : Leonid "Deburger" Androschuk
+
+* Vietnamese : Binh Pham
 
 
 ## Fonts:

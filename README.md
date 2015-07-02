@@ -19,7 +19,7 @@ License
 
 * English    : David Revoy, Amireti
 
-* Esperanto  : librefan.eu.org
+* Esperanto  : libre fan
 
 * French     : David Revoy
 

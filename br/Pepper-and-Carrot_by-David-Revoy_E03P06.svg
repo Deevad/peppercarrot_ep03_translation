@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.27255257"
+     inkscape:cx="719.44498"
+     inkscape:cy="2901.4858"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 130.6209,908.59635 c 8.03267,-105.53291 27.87897,-125.48095 78.75218,-162.80363 43.0797,-31.60506 222.30764,-30.01071 273.63008,-26.03726 65.9652,5.10711 121.82803,48.11058 147.26457,103.98095 25.43667,55.87036 -10.71007,211.06579 -69.61594,246.76079 -58.90578,35.6949 -182.82459,52.2762 -269.88973,45.8502 -52.67862,-3.8881 -169.51248,-58.7634 -160.14116,-207.75105 z"
+       id="path3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 733.88311,1085.2688 c -44.306,12.9389 -54.1082,2.7446 -64.3025,-9.8023 -10.1943,-12.5468 -18.0361,-25.0936 -28.6225,-25.8778 -10.5864,-0.7842 -23.9174,4.313 -33.3275,9.4101 -9.4102,5.0972 -16.507,-1.9213 -25.1329,-8.9789 -8.626,-7.0576 -62.695,-32.5825 -62.695,-32.5825 0,0 18.8203,41.1693 28.6225,51.7557 9.8022,10.5864 13.331,14.5073 18.4281,17.644 5.0972,3.1367 18.8203,9.0181 29.7988,6.2734 10.9785,-2.7446 19.9965,-10.5864 27.8383,-14.5072 7.8417,-3.9209 21.1532,-0.549 30.9554,7.2928 9.8022,7.8418 34.739,22.2706 51.9909,15.9972 17.2519,-6.2734 26.4464,-16.6245 26.4464,-16.6245 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1254.9941,3141.3993 c 3.095,-104.316 173.8597,-127.2078 253.0705,-133.4308 79.2108,-6.223 289.4243,-28.0036 368.6351,56.0073 79.2108,84.0109 51.2398,125.1 8.3668,169.2721 -36.5605,37.6686 -128.4077,58.8354 -209.3958,70.6272 -100.5628,14.6417 -271.2186,-3.3428 -345.4719,-44.9689 -39.5984,-22.1987 -78.2999,-13.191 -75.2047,-117.5069 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1129.7469,3139.8145 c 21.6616,12.3189 36.3515,19.4589 47.9057,15.6882 11.554,-3.7706 25.3208,-7.419 31.6023,-18.5755 6.2814,-11.1565 21.4663,-24.8883 29.6226,-24.2454 8.1564,0.643 38.0028,3.8281 51.4556,18.5689 13.4528,14.7409 24.5547,-27.4016 24.5547,-27.4016 0,0 -32.6208,-19.0608 -39.516,-20.5927 -6.8954,-1.5319 -26.3964,-10.6636 -49.457,10.3018 -23.0604,20.9655 -31.8401,40.6119 -44.8361,47.754 -12.9959,7.1421 -35.9993,8.5538 -51.3318,-1.4977 z"
+       id="path3137"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-74.208632,482.94521)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="676.91821"
+           height="308.9158"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3011">... goude-se</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3356">eus ur glosenn vi</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3358">Fenis bennak</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3015"> eus traonienn</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3033">ar meneier-tan...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1149.2463,2801.7495)"><flowRegion
+         id="flowRegion2989-9"><rect
+           id="rect2991-9"
+           width="626.15924"
+           height="205.81171"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3044"> ... Hag evit echuiñ eus un dakenn laezh bennak</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3046">eus ur SarpantBuoc'h </flowPara></flowRoot>  </g>
+</svg>

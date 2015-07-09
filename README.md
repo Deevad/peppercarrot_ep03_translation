@@ -15,6 +15,8 @@ License
 
 * Arabic     : Mahwiii
 
+* Breton     : Stefan Carpentier
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy, Amireti

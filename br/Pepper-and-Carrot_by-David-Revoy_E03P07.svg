@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07.svg">
@@ -43,20 +43,20 @@
      inkscape:window-height="838"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.41451839"
-     inkscape:cx="1235.9697"
-     inkscape:cy="2940.3362"
+     inkscape:zoom="0.5"
+     inkscape:cx="1498.9255"
+     inkscape:cy="428.988"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="C:\Users\Stefan DYB\Dropbox\Pepper&amp;Carrot\peppercarrot_ep03_translation-master\peppercarrot_ep03_translation-master\br\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        width="2481"
        height="3503"
@@ -87,7 +87,7 @@
        sodipodi:nodetypes="ccscscsc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 304.7843,2736.0173 c 10.62996,-113.1562 111.13132,-243.04 346.92297,-224.3445 235.79165,18.6954 325.66307,99.3806 318.89855,253.8634 -6.76451,154.4829 -134.32393,214.5049 -332.42757,205.6492 -198.10364,-8.8557 -344.99026,-71.8296 -333.39395,-235.1681 z"
+       d="m 284.82087,2736.0173 c 11.23573,-113.1562 117.46439,-243.04 366.69314,-224.3445 249.22876,18.6954 344.2217,99.3806 337.07169,253.8634 -7.15,154.4829 -141.97867,214.5049 -351.37169,205.6492 -209.39301,-8.8557 -364.65029,-71.8296 -352.39314,-235.1681 z"
        id="path3274"
        inkscape:connector-curvature="0" />
     <path
@@ -98,7 +98,7 @@
        sodipodi:nodetypes="cscsscc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 499.88076,1164.9586 c 2.61065,-44.2984 33.9383,-63.2835 48.2968,-69.6117 14.35851,-6.3283 75.70848,-15.8209 116.17336,-15.8209 40.46489,0 140.97443,3.1641 157.94356,4.7463 16.96915,1.5821 63.96062,33.2237 65.26594,61.7013 1.30532,28.4775 -6.52659,47.4624 -30.02233,64.8654 -23.49573,17.403 -169.69143,25.3134 -178.82866,23.7313 -9.13723,-1.5822 -130.53187,-12.6566 -138.36378,-17.403 -7.83191,-4.7462 -39.15956,-17.4028 -40.46489,-52.2087 z"
+       d="m 499.88076,1171.4676 c 2.61065,-40.1681 33.9383,-57.383 48.2968,-63.1212 14.35851,-5.7383 75.70848,-14.3458 116.17336,-14.3458 40.46489,0 140.97443,2.8691 157.94356,4.3038 16.96915,1.4346 63.96062,30.1259 65.26594,55.9483 1.30532,25.8223 -6.52659,43.0371 -30.02233,58.8174 -23.49573,15.7804 -169.69143,22.9532 -178.82866,21.5186 -9.13723,-1.4346 -130.53187,-11.4765 -138.36378,-15.7803 -7.83191,-4.3037 -39.15956,-15.7802 -40.46489,-47.3408 z"
        id="path3278"
        inkscape:connector-curvature="0" />
     <path
@@ -115,7 +115,7 @@
        sodipodi:nodetypes="csccssscc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 553.2062,252.47324 c -12.9974,-61.38471 15.52369,-112.97383 34.49975,-126.1495 18.97605,-13.17568 51.9158,-29.617124 68.51187,-32.944762 16.59607,-3.327653 280.48554,-18.342147 296.48185,-10.884402 15.99629,7.45775 87.80293,34.167284 104.58173,71.962114 16.7788,37.79483 20.3008,106.25667 -0.2028,128.28112 -20.504,22.02444 -39.6,64.5792 -159.66115,73.27599 -120.06111,8.69679 -278.40902,-4.11081 -313.81607,-48.43997 -19.96055,-24.99035 -30.39518,-55.10059 -30.39518,-55.10059 z"
+       d="m 596.25026,245.01249 c -11.49358,-58.72254 13.72759,-108.07431 30.50809,-120.67857 16.7805,-12.60427 45.90908,-28.332676 60.58497,-31.515999 14.67589,-3.183337 248.03305,-17.546674 262.17857,-10.412361 14.1455,7.134318 77.64401,32.6855 92.48151,68.84122 14.8375,36.15572 17.952,101.64847 -0.1794,122.71775 -18.1316,21.06928 -35.0182,61.7785 -141.18812,70.09812 -106.1699,8.31962 -246.19678,-3.93253 -277.50719,-46.3392 -17.65109,-23.90655 -26.87843,-52.71096 -26.87843,-52.71096 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -214,30 +214,20 @@
          id="flowPara3057-7-3-2" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(178.98487,2312.4457)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(260.98487,2310.4457)"><flowRegion
          id="flowRegion2989-3"><rect
            id="rect2991-15"
-           width="676.55792"
-           height="400.5246"
+           width="517.33698"
+           height="405.34949"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3195">C'est tout ce dont</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3052">j'avais besoin avant de </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3058">bosser toute la nuit </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3060">sur la meilleure potion</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3062">pour le concours de</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3064">demain</flowPara></flowRoot>    <flowRoot
+         id="flowPara3064">Sed ar pezh rik am boa ezhomm anezhañ evit lardañ an nozvezh-pad war ar gwellañ braoued evit ar genstrivadeg a-benn warc'hoazh</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-6"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1782.1297,3155.1742)"><flowRegion
          id="flowRegion2989-3-2"><rect
            id="rect2991-15-0"
@@ -247,5 +237,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3195-9">à suivre ...</flowPara></flowRoot>  </g>
+         id="flowPara3195-9">da heul ...</flowPara></flowRoot>  </g>
 </svg>

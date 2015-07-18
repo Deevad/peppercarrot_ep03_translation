@@ -35,6 +35,8 @@ License
 
 * Greek      : Dimitris Axiotis
 
+* Hungarian  : Halász Gábor "Hali"
+
 * Italian    : Carlo Gandolfi
 
 * Japanese   : guruguru

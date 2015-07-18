@@ -17,13 +17,15 @@ License
 
 * Breton     : Stefan Carpentier
 
+* Chinese    : Ran Zhuang
+
 * Dutch      : Willem Sonke
 
 * English    : David Revoy, Amireti
 
 * Esperanto  : libre fan
 
-* Finnish	   : Kari Lehto
+* Finnish    : Kari Lehto
 
 * French     : David Revoy
 

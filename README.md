@@ -55,6 +55,8 @@ License
 
 * Spanish    : TheFaico
 
+* Swedish    : Quiphius
+
 * Ukrainian  : Leonid "Deburger" Androschuk
 
 * Vietnamese : Binh Pham

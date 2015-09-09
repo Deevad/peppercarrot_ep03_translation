@@ -21,6 +21,8 @@ License
 
 * Dutch      : Willem Sonke
 
+* Dansk      : Marie Moestrup og Juan José Segura
+
 * English    : David Revoy, Amireti
 
 * Esperanto  : libre fan

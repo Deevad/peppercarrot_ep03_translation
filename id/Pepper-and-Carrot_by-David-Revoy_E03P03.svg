@@ -13,7 +13,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
@@ -279,15 +279,6 @@
          id="stop3072" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient5439"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
        id="linearGradient3075">
       <stop
          style="stop-color:#ad5d0f;stop-opacity:1;"
@@ -467,15 +458,6 @@
          offset="1"
          id="stop3171" />
     </linearGradient>
-    <linearGradient
-       y2="1619.6255"
-       x2="1024.5358"
-       y1="2316.8098"
-       x1="618.94147"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3184"
-       xlink:href="#linearGradient5427-1-2"
-       inkscape:collect="always" />
     <filter
        inkscape:collect="always"
        id="filter3347">
@@ -488,15 +470,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3373"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
        id="linearGradient3375"
        gradientUnits="userSpaceOnUse"
        x1="618.94147"
@@ -506,97 +479,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3383"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3385"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3393"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3417"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
        id="linearGradient3419"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3435"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3437"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3125"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3127"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3133"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient3135"
        gradientUnits="userSpaceOnUse"
        x1="618.94147"
        y1="2316.8098"
@@ -617,25 +500,25 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1240.7527"
-     inkscape:cy="576.70666"
+     inkscape:cx="921.10463"
+     inkscape:cy="1597.168"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer4" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep03_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -714,8 +597,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(0.77211542,-0.12606645,0.42467308,0.833339,-623.04641,461.18703)"><flowRegion
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(0.76614913,-0.15833662,0.45924814,0.81479584,-678.27973,517.41629)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
            id="rect3759"
@@ -723,32 +606,32 @@
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
+           style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3775"
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3125);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Perlombaan ramuan</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3127);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:RoboKoz;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Perlombaan ramuan</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:RoboKoz;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3123">Komona</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-630.83406,774.20654)"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;font-family:Arial;-inkscape-font-specification:Arial;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
          id="flowRegion3353"><rect
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3373);fill-opacity:1"
+           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
            y="1655.0723"
            x="296.72992"
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3383);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
          id="flowPara3363">Berhadiah 50.000 Ko</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3385);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
          id="flowPara3371">UNTUK RAMUAN</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3385);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
          id="flowPara3129">TERBAIK</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;font-family:Arial;-inkscape-font-specification:Arial;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-width:5.05978785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
        transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-602.4444,960.19951)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect
@@ -757,11 +640,11 @@
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3417);fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;" /></flowRegion><flowPara
          id="flowPara3413"
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3133);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Dilaksanakan di:</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3135);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;">Dilaksanakan di:</flowPara><flowPara
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
          id="flowPara3131"> Azarday, 3 Pinkmoon</flowPara><flowPara
          id="flowPara3415"
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3435);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Plaza Utama Komona</flowPara></flowRoot>  </g>
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:RoboKoz;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;">Plaza Utama Komona</flowPara></flowRoot>  </g>
 </svg>

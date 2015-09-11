@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P04.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1538"
-     inkscape:window-height="878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="1127.5122"
-     inkscape:cy="2724.277"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="790.43426"
+     inkscape:cy="1719.979"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -57,7 +57,7 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="C:\Users\Przemek!\Desktop\peppercarrot_ep03_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep03_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
        y="0"
        x="0"
@@ -128,7 +128,7 @@
        xml:space="preserve"
        id="flowRoot2987-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(22.035887,1895.6508)"><flowRegion
+       transform="translate(22.019305,1918.5579)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
            width="247.77328"
@@ -137,15 +137,13 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3033">Oh ... </flowPara><flowPara
+         id="flowPara3024">Och!</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3022">MAM!</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024">...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3372">Mam!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(887.39544,1894.0077)"><flowRegion
+       transform="translate(889.78404,1896.2191)"><flowRegion
          id="flowRegion2989-5-5"><rect
            id="rect2991-7-8"
            width="469.71762"
@@ -154,10 +152,10 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024-5">... To jest dokładnie to czego potrzebuję!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3024-5">To jest dokładnie to, czego potrzebuję!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5-9"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.6940983,0,0,1.5764632,1384.3211,1737.9306)"><flowRegion
          id="flowRegion2989-5-5-0"><rect
            id="rect2991-7-8-3"
@@ -165,13 +163,13 @@
            height="144.28166"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024-5-4">Carrot !</flowPara></flowRoot>    <flowRoot
+         id="flowPara3024-5-4">Carrot!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1610.2934,1998.7253)"><flowRegion
+       transform="translate(1596.7874,2007.4468)"><flowRegion
          id="flowRegion2989-5-5-8"><rect
            id="rect2991-7-8-5"
            width="503.49176"
@@ -180,7 +178,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131">Wstawaj, idziemy po składniki.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3131">Wstawaj, idziemy po składniki!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

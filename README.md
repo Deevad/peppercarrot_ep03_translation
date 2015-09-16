@@ -19,11 +19,13 @@ License
 
 * Breton: Stefan Carpentier
 
+* Catalan: Juan José Segura
+
 * Chinese: Ran Zhuang
 
-* Dutch: Willem Sonke
-
 * Dansk: Marie Moestrup og Juan José Segura
+
+* Dutch: Willem Sonke
 
 * English: David Revoy, Amireti
 
@@ -33,21 +35,19 @@ License
 
 * French: David Revoy
 
-* Catalan: Juan José Segura
-
 * German: Helmar Suschka / Alexandra Jordan
-
-* Indonesian: Bonaventura Aditya Perdana
 
 * Greek: Dimitris Axiotis
 
 * Hungarian: Halász Gábor "Hali"
 
+* Indonesian: Bonaventura Aditya Perdana
+
 * Italian: Carlo Gandolfi
 
 * Japanese: guruguru
 
-* Polish: Przemysław "Kev" Chudzia
+* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista
 

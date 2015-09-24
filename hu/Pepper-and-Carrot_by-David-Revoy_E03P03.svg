@@ -591,7 +591,7 @@
      showgrid="false"
      inkscape:zoom="0.41451838"
      inkscape:cx="933.16682"
-     inkscape:cy="789.02278"
+     inkscape:cy="1078.5154"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -603,12 +603,12 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep03_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -719,8 +719,8 @@
            id="rect3355" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3385);fill-opacity:1"
          id="flowPara3371"><flowSpan
-   id="flowSpan3476"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3383);fill-opacity:1">50 000 Ko  főnyeremény</flowSpan></flowPara><flowPara
+           id="flowSpan3476"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3383);fill-opacity:1">50 000 Ko  főnyeremény</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3385);fill-opacity:1"
          id="flowPara3478">A LEGJOBB</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3385);fill-opacity:1"
@@ -738,7 +738,7 @@
            y="1655.0723"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;text-align:center;text-anchor:middle;fill:url(#linearGradient3417);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3435);fill-opacity:1">Idő: Rózsahó 3. (Azárnap)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3435);fill-opacity:1">Időpont: Azárnap, 15h</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Risque;-inkscape-font-specification:Risque;fill:url(#linearGradient3435);fill-opacity:1"
          id="flowPara3486">Hely: Komona Főtere</flowPara></flowRoot>  </g>
 </svg>

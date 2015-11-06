@@ -53,6 +53,8 @@ License
 
 * Portuguese: Frederico Batista
 
+* Romanian: Costin-Sorin Ionescu
+
 * Russian: Denis "uncle Night" Prisukhin
 
 * Sinhala: Tharinda Divakara

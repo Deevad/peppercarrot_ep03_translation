@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
@@ -39,24 +39,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="2075.3544"
-     inkscape:cy="852.64107"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1261.9251"
+     inkscape:cy="1045.073"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="artwork"
-     sodipodi:insensitive="true">
+     inkscape:label="artwork">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        width="2481"
        height="3503"
@@ -70,7 +69,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 193.48646,2301.2329 c -7.4685,-131.4583 71.69779,-174.7796 279.32257,-168.8042 207.62478,5.9753 256.917,82.1613 271.85404,128.4704 14.93702,46.3091 -17.92446,161.335 -146.38294,212.1257 -128.45851,50.7905 -343.55182,-20.9138 -370.43847,-58.2599 -26.88668,-37.3462 -32.8615,-79.1737 -34.3552,-113.532 z"
+       d="m 205.97566,2307.1338 c -7.30029,-136.0391 70.08295,-180.8701 273.03144,-174.6865 202.94849,6.1835 251.13051,85.0244 265.73113,132.9472 14.6006,47.9229 -17.52075,166.9571 -143.08599,219.5177 -125.56526,52.5604 -335.81407,-21.6426 -362.09516,-60.2901 -26.28111,-38.6475 -32.12136,-81.9327 -33.58142,-117.4883 z"
        id="path3238"
        inkscape:connector-curvature="0" />
     <path
@@ -90,8 +89,8 @@
        id="path4035"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2090.0469,2536.3617 c -2.2999,-19.7058 5.5107,-18.1449 9.1338,-21.5267 -4.9643,-16.3891 2.3931,-35.7047 34.5644,-44.1594 7.7809,-13.0721 34.0591,-23.2177 52.0917,-12.9421 12.7862,-10.2756 32.9888,-10.6008 41.2231,-2.7965 9.0219,-8.975 21.2318,0.6504 22.3318,2.6665 11.2217,-4.9428 26.8428,-1.821 32.9477,2.9916 14.9154,-7.284 46.44,3.1218 45.511,17.8198 17.0739,10.3407 17.921,22.8276 12.6631,30.5018 13.0982,8.5197 19.6858,48.8419 -17.5611,53.4594 -10.516,15.3484 -38.9233,22.5024 -52.0211,13.9826 -18.0032,4.3574 -29.2955,8.2596 -33.695,0.1952 -9.022,8.9749 -32.1006,9.4951 -25.4196,-5.5932 -11.2107,10.108 -24.4641,7.8522 -34.7743,1.977 -17.3615,11.9362 -39.6497,8.069 -39.3204,-3.3094 -24.4235,5.243 -28.375,-12.4197 -27.1744,-19.0756 -3.9178,-0.9297 -13.3166,-1.4874 -20.5007,-14.191 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2104.6568,2526.786 c -0.8955,-19.8163 6.2683,-17.7303 9.8502,-20.8592 -3.5819,-16.6875 4.4774,-35.4608 34.9231,-41.7186 8.0593,-12.5155 33.1324,-20.8593 49.2509,-9.3867 12.5365,-9.3866 31.3413,-8.3437 38.5051,0 8.9547,-8.3437 19.7002,2.086 20.5957,4.1719 10.7456,-4.1719 25.0731,0 30.4459,5.2148 14.3276,-6.2578 42.9825,6.2578 41.1916,20.8593 15.223,11.4726 15.223,23.9882 9.8502,31.2889 11.6411,9.3867 15.2229,50.0623 -19.7003,52.1482 -10.7457,14.6015 -37.6098,19.8163 -49.2507,10.4296 -17.014,3.1289 -27.7596,6.2578 -31.3416,-2.0859 -8.9546,8.3437 -30.4457,7.3007 -23.282,-7.3008 -11.0613,9.326 -23.2418,6.1783 -32.4575,-0.3812 -16.8956,10.7337 -37.3749,5.3668 -36.3511,-5.9632 -23.0395,3.5779 -25.5994,-14.3117 -24.0633,-20.8711 -3.584,-1.1927 -12.2878,-2.3853 -18.1662,-15.546 z"
        id="path4043"
        inkscape:connector-curvature="0" />
     <path
@@ -126,17 +125,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.94423495,0,0,0.91267323,63.441666,-87.971949)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(0.95842652,0,0,0.92639044,64.131114,-94.148029)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
-           width="802.00476"
-           height="222.0042"
+           width="611.5885"
+           height="176.12721"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-size:46.69562934px;line-height:125%">Kêr Komona,</flowPara><flowPara
          id="flowPara2995"
-         style="font-size:48px">Kêr Komona,</flowPara></flowRoot>    <flowRoot
+         style="font-size:46.69562934px;line-height:125%">           Deiz ar marc'had</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -159,7 +160,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(859.94277,1923.7801)"><flowRegion
+       transform="translate(862.44277,1928.7801)"><flowRegion
          id="flowRegion2989-5-4"><rect
            id="rect2991-7-9"
            width="602.40173"
@@ -205,18 +206,5 @@
          id="tspan3378"
          x="1369.9999"
          y="2293" /></text>
-    <flowRoot
-       transform="matrix(0.92142362,0,0,0.89062439,53.734407,-21.732534)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot3372"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3374"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi"
-           y="265.53046"
-           x="120.55251"
-           height="222.0042"
-           width="802.00476"
-           id="rect3376" /></flowRegion><flowPara
-         style="font-size:48px"
-         id="flowPara3380">K           Deiz ar marc'had</flowPara></flowRoot>  </g>
+  </g>
 </svg>

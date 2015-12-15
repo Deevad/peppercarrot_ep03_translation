@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5"
      inkscape:cx="1498.9255"
-     inkscape:cy="428.988"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cy="481.29844"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Stefan DYB\Dropbox\Pepper&amp;Carrot\peppercarrot_ep03_translation-master\peppercarrot_ep03_translation-master\br\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -115,7 +115,7 @@
        sodipodi:nodetypes="csccssscc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 596.25026,245.01249 c -11.49358,-58.72254 13.72759,-108.07431 30.50809,-120.67857 16.7805,-12.60427 45.90908,-28.332676 60.58497,-31.515999 14.67589,-3.183337 248.03305,-17.546674 262.17857,-10.412361 14.1455,7.134318 77.64401,32.6855 92.48151,68.84122 14.8375,36.15572 17.952,101.64847 -0.1794,122.71775 -18.1316,21.06928 -35.0182,61.7785 -141.18812,70.09812 -106.1699,8.31962 -246.19678,-3.93253 -277.50719,-46.3392 -17.65109,-23.90655 -26.87843,-52.71096 -26.87843,-52.71096 z"
+       d="m 578.36362,251.19772 c -11.9424,-60.92957 14.26364,-112.13618 31.69941,-125.21416 17.43577,-13.07799 47.70181,-29.397537 62.95078,-32.700502 15.24898,-3.30298 257.7186,-18.20615 272.4165,-10.8037 14.69787,7.402454 80.67599,33.913952 96.09289,71.428552 15.4169,37.5146 18.653,105.46884 -0.1864,127.32999 -18.8397,21.86115 -36.3857,64.10039 -146.70147,72.73269 -110.31578,8.63231 -255.81063,-4.08033 -288.34369,-48.08081 -18.34036,-24.80506 -27.92802,-54.69206 -27.92802,-54.69206 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -214,7 +214,7 @@
          id="flowPara3057-7-3-2" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(260.98487,2310.4457)"><flowRegion
          id="flowRegion2989-3"><rect
            id="rect2991-15"
@@ -224,7 +224,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3064">Sed ar pezh rik am boa ezhomm anezhañ evit lardañ an nozvezh-pad war ar gwellañ braoued evit ar genstrivadeg a-benn warc'hoazh</flowPara></flowRoot>    <flowRoot
+         id="flowPara3064">Sed ar pezh rik am boa ezhomm evit lardañ an nozvezh-pad war ar gwellañ dramm evit ar genstrivadeg a-benn warc'hoazh.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"

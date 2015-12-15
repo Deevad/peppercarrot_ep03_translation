@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P05.svg">
@@ -39,25 +39,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.31343544"
-     inkscape:cx="1231.2626"
-     inkscape:cy="2201.0205"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.27255256"
+     inkscape:cx="1159.711"
+     inkscape:cy="862.66314"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
+       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
        width="2481"
        height="3503"
@@ -71,7 +71,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1606.3046,744.67555 c 13.1936,-82.70766 125.9382,-98.41164 141.5305,-105.74017 15.5923,-7.32852 104.8528,-12.46469 115.6475,-11.41776 10.7947,1.04694 126.4423,8.86793 139.6358,7.82098 13.1934,-1.04692 112.5534,10.53133 138.9403,22.04759 26.387,11.51626 105.9307,77.86697 105.9307,108.228 0,30.36103 -29.9854,92.13004 -101.9499,120.39723 -71.9646,28.26717 -205.7014,30.23316 -290.8596,24.99849 -85.1582,-5.23464 -157.1179,-16.63342 -182.3054,-38.61901 -25.1877,-21.98558 -78.5639,-86.885 -66.5699,-127.71535 z"
+       d="m 1606.2675,754.89038 c 12.8925,-86.95207 123.0635,-103.46195 138.2999,-111.16657 15.2364,-7.70461 102.4594,-13.10436 113.0077,-12.0037 10.5483,1.10066 123.5561,9.32301 136.4484,8.22234 12.8923,-1.10065 109.9842,11.07179 135.7688,23.17904 25.7847,12.10725 103.5127,81.86296 103.5127,113.78207 0,31.91911 -29.3009,96.85799 -99.6228,126.57579 -70.3219,29.7178 -205.1057,55.03295 -288.32,49.52966 -83.2144,-5.50329 -145.332,-19.81186 -169.9446,-42.92571 -24.6127,-23.11383 -80.8703,-112.26722 -69.1501,-155.19292 z"
        id="path3061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssssc" />
@@ -83,7 +83,7 @@
        sodipodi:nodetypes="cscccc" />
     <path
        style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1078.4371,1891.4833 c 3.2844,-77.4354 45.9811,-134.4365 278.0759,-133.3609 232.0946,1.0754 283.5496,19.3588 295.5923,95.7187 12.0426,76.3599 -27.3697,102.1718 -81.0142,130.1346 -53.6446,27.9628 -178.4502,65.605 -281.3601,46.2461 -102.91,-19.3588 -217.8626,-64.5295 -211.2939,-138.7385 z"
+       d="m 1078.4244,1887.4493 c 3.1289,-75.0933 43.8045,-130.3704 264.9128,-129.3274 221.1082,1.0429 270.1275,18.7733 281.6001,92.8237 11.4726,74.0504 -26.0741,99.0816 -77.1793,126.1986 -51.1052,27.1171 -170.003,63.6208 -268.0416,44.8474 -98.0386,-18.7733 -207.5498,-62.5778 -201.292,-134.5423 z"
        id="path3065"
        inkscape:connector-curvature="0" />
     <path
@@ -100,7 +100,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1502.6947,411.98238)"><flowRegion
+       transform="translate(1496.4014,409.88461)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="595.16437"
@@ -117,7 +117,7 @@
        xml:space="preserve"
        id="flowRoot2987-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1005.1932,1534.4814)"><flowRegion
+       transform="translate(984.21548,1536.5792)"><flowRegion
          id="flowRegion2989-7"><rect
            id="rect2991-1"
            width="490.67957"

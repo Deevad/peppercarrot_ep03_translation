@@ -53,6 +53,8 @@ License
 
 * Latin: Guillaume Lestringant
 
+* Lojban: Gleki Arxokuna
+
 * Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista

@@ -33,7 +33,7 @@ License
 
 * English: David Revoy, Amireti
 
-* Esperanto  : libre fan (librefan.eu.org), korektoj: kaoseto
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * Finnish: Kari Lehto
 

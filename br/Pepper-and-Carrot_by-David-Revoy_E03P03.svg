@@ -1171,23 +1171,23 @@
      showgrid="false"
      inkscape:zoom="0.31343545"
      inkscape:cx="694.89246"
-     inkscape:cy="669.32421"
+     inkscape:cy="1140.5199"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -1216,8 +1216,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccsc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1264.1605,2776.2218 c 11.4706,-54.2464 54.2239,-86.6036 78.2074,-98.024 23.9836,-11.4204 301.3592,-24.7441 361.8396,-26.6475 60.4803,-1.9034 235.6649,-2.8551 311.7868,30.4542 76.1218,33.3091 104.2765,78.0386 105.3193,103.7343 1.0428,25.6955 -27.1119,94.2174 -171.0136,115.1546 -143.9014,20.9372 -288.3334,29.3509 -343.5999,25.5442 -55.2666,-3.8068 -243.9719,-11.1695 -296.1101,-55.8988 -52.1383,-44.7295 -45.3867,-61.9595 -46.4295,-94.317 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1264.1605,2762.2755 c 11.7695,-59.2531 55.6367,-94.5968 80.245,-107.0712 24.6085,-12.4745 309.2109,-27.0279 371.2671,-29.107 62.056,-2.0791 241.8049,-3.1186 319.9101,33.265 78.1051,36.3834 106.9934,85.2413 108.0633,113.3086 1.07,28.0671 -27.8182,102.9133 -175.4692,125.7829 -147.6506,22.8696 -295.8457,32.0599 -352.5521,27.9018 -56.7065,-4.1581 -250.3284,-12.2004 -303.825,-61.058 -53.4967,-48.8579 -46.5692,-67.6781 -47.6392,-103.0221 z"
        id="path5909"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -1235,7 +1235,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(1.0754216,0,0,1.1715058,-86.467101,-446.2641)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -1243,20 +1243,20 @@
            height="219.26277"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara4103">Biskoazh gwell, ar genstrivadeg-mañ ! Hag un devezh am eus c'hoazh evit en em brientiñ.</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara4103">Biskoazh gwell, ar genstrivadeg-mañ! Hag un devezh am eus c'hoazh evit en em brientiñ.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2105727,0,0,1.3236545,-246.10936,-521.66257)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="matrix(1.2105727,0,0,1.3236545,-246.10936,-509.66257)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
            width="424.67386"
            height="206.40002"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara4107">Evel-just ec'h an da gemer perzh !</flowPara></flowRoot>  </g>
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara4107">Evel-just ec'h an da gemer perzh!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1281,7 +1281,7 @@
          id="flowPara3601">Drammoù</flowPara><flowPara
          id="flowPara3775"
          style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient5445-2-3-1);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Komona</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.63957111,-0.16433206,0.40979715,0.70030268,-426.93903,870.46642)"
+       transform="matrix(0.63957111,-0.16433206,0.40979715,0.70030268,-420.55813,883.22822)"
        style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3993);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3951"
        xml:space="preserve"><flowRegion

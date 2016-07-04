@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.5"
      inkscape:cx="1498.9255"
-     inkscape:cy="481.29844"
+     inkscape:cy="734.74969"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -197,17 +197,19 @@
          id="flowPara3057-7-3" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6-0-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.0270069,0,0,1.0526176,205.85183,2045.348)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(1.0270069,0,0,1.0526176,177.85183,1999.348)"><flowRegion
          id="flowRegion2989-57-9-5-4"><rect
            id="rect2991-1-7-6-9"
-           width="697.53107"
-           height="220.44458"
+           width="722.84735"
+           height="269.84525"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:72px;text-align:center;text-anchor:middle"
-         id="flowPara3017-3-3-0-3">Best ... Kafe ...</flowPara><flowPara
+         id="flowPara3017-3-3-0-3">Best ...</flowPara><flowPara
+         style="font-size:72px;text-align:center;text-anchor:middle"
+         id="flowPara3031">Banne kafe ...</flowPara><flowPara
          style="font-size:64px;text-align:center;text-anchor:middle"
          id="flowPara3149">Ever !</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"

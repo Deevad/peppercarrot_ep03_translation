@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.23834807"
-     inkscape:cx="700.74145"
-     inkscape:cy="1185.1832"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1195.8157"
+     inkscape:cy="1059.3168"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep03_translation\jbo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep03_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        width="2481"
        height="3503"
@@ -114,7 +114,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(59.65573,-114.20763)"><flowRegion
+       transform="translate(45.65573,-114.20763)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="558.34851"
@@ -122,10 +122,10 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara2993"
-         style="font-size:48px">i la komonan cu</flowPara><flowPara
+         style="font-size:48px"
+         id="flowPara3367">i lo tcadu po'u la</flowPara><flowPara
          id="flowPara2995"
-         style="font-size:48px">           tcadu i zarci</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px">           komonan i zarci</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -140,9 +140,9 @@
          id="flowPara2995-2"
          style="font-size:48px;text-align:center;text-anchor:middle">cerni coi</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3033">i mi nitcu </flowPara><flowPara
+         id="flowPara3033">i mi nitcu tu'a</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara6535">lo 8 jindaguzme</flowPara></flowRoot>    <flowRoot
+         id="flowPara6535">8 jindaguzme</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -155,7 +155,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3080">i uo i ti rupnu </flowPara><flowPara
+         id="flowPara3080">i uo i rupnu </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara6539">li xa no</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -173,7 +173,7 @@
          id="flowPara3080-9">ue oi</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66530597,0,0,0.68592152,838.12036,3217.8881)"><flowRegion
          id="flowRegion2989-5-4-7-7"><rect
            id="rect2991-7-9-4-3"
@@ -181,7 +181,9 @@
            height="56.407585"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
-         id="flowPara3080-9-7">* Ko = the Komona currency unit</flowPara></flowRoot>  </g>
+         id="flowPara3080-9-7" /><flowPara
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
+         id="flowPara3371" /></flowRoot>  </g>
 </svg>

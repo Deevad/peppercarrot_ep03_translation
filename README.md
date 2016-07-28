@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 03: The secret ingredient
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -21,13 +21,13 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jos? Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup og Juan Jos? Segura
+* Dansk: Marie Moestrup og Juan José Segura
 
 * Dutch: Willem Sonke
 
@@ -41,10 +41,9 @@ License
 
 * German: Helmar Suschka / Alexandra Jordan
 
-* Greek: Dimitris Axiotis / George Karettas
+* Greek: Dimitris Axiotis
 
-
-* Hungarian: Hal?sz G?bor "Hali"
+* Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
@@ -56,7 +55,7 @@ License
 
 * Lojban: Gleki Arxokuna
 
-* Polish: Przemys?aw "Kev" Chudzia, S?lve Svartskogen
+* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista
 

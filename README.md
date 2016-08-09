@@ -41,7 +41,7 @@ License
 
 * German: Helmar Suschka / Alexandra Jordan
 
-* Greek: Dimitris Axiotis
+* Greek: Dimitris Axiotis / George Karettas
 
 * Hungarian: Halász Gábor "Hali"
 

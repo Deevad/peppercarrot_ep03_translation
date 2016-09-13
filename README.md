@@ -65,6 +65,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Silesian: Grzegorz Kulik
+
 * Sinhala: Tharinda Divakara
 
 * Slovak: talime

@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.7861182"
-     inkscape:cx="1481.1524"
-     inkscape:cy="524.24442"
+     inkscape:zoom="0.36043212"
+     inkscape:cx="2064.6197"
+     inkscape:cy="929.97948"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep03_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep03_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -127,7 +127,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3117">... og helt til slutt</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3391">en dråpe melk fra ei</flowPara><flowPara
+         id="flowPara3391">en dr<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4154">å</flowSpan>pe melk fra ei</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3393">ung drageku</flowPara></flowRoot>    <text
        xml:space="preserve"

@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4849675"
-     inkscape:cx="1695.3384"
-     inkscape:cy="598.25283"
+     inkscape:zoom="0.11117785"
+     inkscape:cx="4545.8909"
+     inkscape:cy="-2314.8126"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep03_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep03_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -211,7 +211,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara2997-6">God dag min herre.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3427">Kan De være så</flowPara><flowPara
+         id="flowPara3427">Kan De være s<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4205">å</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3431">vennlig å gjøre klart</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
@@ -287,7 +289,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3518">drikk konkurranse du handler inn til,</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3520">ikke sant ?</flowPara></flowRoot>    <flowRoot
+         id="flowPara3520">ikke sant?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8-4-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -301,7 +303,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3347">... Trylledrikk-</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3530">konkurranse ?</flowPara></flowRoot>    <flowRoot
+         id="flowPara3530">konkurranse?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8-4-1-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -313,5 +315,5 @@
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3347-5">... imorgen ?</flowPara></flowRoot>  </g>
+         id="flowPara3347-5">... imorgen?</flowPara></flowRoot>  </g>
 </svg>

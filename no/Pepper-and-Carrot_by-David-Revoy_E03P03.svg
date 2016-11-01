@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -517,9 +517,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.1465468"
-     inkscape:cx="1252.1545"
-     inkscape:cy="1038.2614"
+     inkscape:zoom="0.53752908"
+     inkscape:cx="1219.5981"
+     inkscape:cy="2898.6259"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -530,13 +530,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep03_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep03_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -598,7 +598,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3466">fremdeles en hel dag på å</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3472">forberede meg !</flowPara></flowRoot>    <flowRoot
+         id="flowPara3472">forberede meg!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -613,7 +613,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara5840">Dette skal</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3476">vi vinne !</flowPara></flowRoot>  </g>
+         id="flowPara3476">vi vinne!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -633,7 +633,7 @@
            y="1655.0723"
            style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara3761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.36717139px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Komona Trylledrikk  </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.36717224px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Komona Trylledrikk-  </flowPara><flowPara
          id="flowPara3775"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.36717224px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">  konkurranse</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.76226518,-0.19066182,0.58337307,0.8770208,-720.55284,599.12845)"

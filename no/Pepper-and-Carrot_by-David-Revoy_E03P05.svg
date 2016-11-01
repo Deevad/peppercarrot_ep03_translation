@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.63924994"
-     inkscape:cx="1634.4133"
-     inkscape:cy="1356.7781"
+     inkscape:zoom="0.5861872"
+     inkscape:cx="1840.2284"
+     inkscape:cy="1661.4814"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep03_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep03_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -107,7 +107,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3017">Først må jeg ha noen tåkeperler fra mørke tordenskyer ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3017">Først m<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4149">å</flowSpan> jeg ha noen t<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4151">å</flowSpan>keperler fra mørke tordenskyer ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -120,7 +124,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3059">... og så noen</flowPara><flowPara
+         id="flowPara3059">... og s<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4153">å</flowSpan> noen</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3362">rognebær fra en forhekset jungel</flowPara></flowRoot>  </g>
 </svg>

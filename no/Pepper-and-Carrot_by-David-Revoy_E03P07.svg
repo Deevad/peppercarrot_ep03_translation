@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42031722"
-     inkscape:cx="969.18245"
-     inkscape:cy="839.83476"
+     inkscape:zoom="0.38542761"
+     inkscape:cx="1645.8066"
+     inkscape:cy="1020.0679"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/peppercarrot_ep03_translation-master/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep03_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -224,9 +224,15 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3195">Akkurat det jeg trengte</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3495">for å holde meg våken</flowPara><flowPara
+         id="flowPara3495">for <flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4189">å</flowSpan> holde meg v<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4185">å</flowSpan>ken</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3502">natta gjennom. Nå skal jeg lage verdens beste</flowPara><flowPara
+         id="flowPara3502">natta gjennom. N<flowSpan
+   style="font-size:43.75px"
+   id="flowSpan4187">å</flowSpan> skal jeg lage verdens beste</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3504">trylledrikkformel </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"

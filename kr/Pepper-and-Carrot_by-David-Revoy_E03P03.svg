@@ -513,16 +513,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="969"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1388.2052"
+     inkscape:cx="1045.1031"
      inkscape:cy="385.93003"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -530,13 +530,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
@@ -554,8 +554,8 @@
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 1268.3681,3059.9358 c 23.2564,8.3485 32.2011,16.1006 28.0269,20.8712 9.5411,2.3852 13.119,64.4023 4.1742,75.7323 -0.5963,1.1927 -4.7705,4.7706 -2.9816,5.3669 1.789,0.5963 12.5227,-1.1926 14.3117,1.1926 1.7889,2.3853 -16.1006,36.3754 -13.7154,37.5681 2.3853,1.1926 57.2466,-21.4675 64.9987,-16.1006 7.7521,5.3668 3.5779,19.0821 5.9632,19.6785 2.3852,0.5963 24.449,-2.9816 27.4306,-2.3853 2.9816,0.5963 8.3484,18.4858 11.33,19.0822 2.9816,0.5963 16.6969,-7.7522 19.0822,-7.1559 2.3853,0.5964 1.1926,15.5043 4.1742,16.1006 2.9816,0.5963 16.1006,-12.5226 17.8896,-11.9263 1.7889,0.5963 8.3484,30.4122 11.33,32.2011 2.9816,1.789 22.0638,-32.7974 23.8527,-33.3938 1.789,-0.5963 13.119,40.5496 15.5043,41.146 2.3853,0.5963 14.3116,-28.027 16.1006,-27.4307 1.7889,0.5964 13.119,17.2933 15.5042,18.4859 2.3853,1.1926 17.8896,-36.9717 20.2748,-36.9717 2.3853,0 22.6601,16.1006 24.4491,19.0822 1.7889,2.9816 3.5779,-15.5043 5.9631,-15.5043 2.3853,0 29.8159,10.7337 30.4123,10.1374 0.5963,-0.5963 -4.1743,-11.9264 -2.3853,-11.9264 1.7889,0 29.8159,14.908 31.0085,11.9264 1.1926,-2.9816 60.8244,14.9079 64.9987,12.5227 4.1742,-2.3853 -26.8343,-48.8981 -23.8528,-52.476 2.9816,-3.5779 13.7154,0.5963 14.3117,-1.1926 0.5963,-1.789 -6.5595,-9.5411 -4.7706,-11.9264 1.789,-2.3853 22.0638,-11.9263 23.8527,-14.9079 1.789,-2.9816 -8.9447,-10.7338 -6.5595,-12.5227 2.3853,-1.789 37.5681,-13.119 38.1644,-16.1006 0.5963,-2.9816 -17.8895,-17.2932 -15.5043,-21.4674 2.3853,-4.1743 8.9448,-5.9632 8.3485,-8.9448 -0.5963,-2.9816 -11.9264,-6.5595 -11.3301,-9.5411 0.5964,-2.9816 6.5595,-17.8895 8.3485,-20.2748 1.7889,-2.3853 -12.5227,-1.1926 -12.5227,-3.5779 0,-2.3853 52.476,-66.1913 51.2833,-84.0808 -18.4858,11.33 -81.6955,31.6048 -101.374,26.8343 -19.6785,-4.7706 -11.9263,-34.5864 -14.9079,-36.3754 -2.9816,-1.789 -25.0454,10.1374 -28.027,5.9632 -2.9816,-4.1742 -4.1742,-11.9264 -6.5595,-11.9264 -2.3852,0 -16.1006,16.6969 -19.0821,16.1006 -2.9816,-0.5963 -31.0086,-26.8343 -35.1828,-27.4306 -4.1742,-0.5963 -20.2748,10.1374 -23.8527,10.7337 -3.5779,0.5963 -6.5595,-14.3116 -9.5411,-13.119 -2.9816,1.1926 -22.0638,11.9264 -25.0453,10.7337 -2.9816,-1.1926 -5.3669,-5.9631 -7.7522,-4.7705 -2.3852,1.1926 -13.119,5.9632 -13.119,5.9632 0,0 -7.7521,-3.5779 -11.33,-3.5779 -3.5779,0 -28.0269,19.6784 -31.0085,20.8711 -2.9816,1.1926 -28.6233,-45.3202 -26.8343,-48.8981 1.7889,-3.5779 -26.8343,49.4944 -31.0086,51.2834 -4.1742,1.7889 -16.6969,-3.578 -17.8895,-1.789 -1.1926,1.789 -4.7705,11.33 -8.3485,11.9264 -3.5779,0.5963 -11.9263,2.9815 -11.9263,2.9815 l 1.1926,3.578 c 0,0 -25.0453,-9.5411 -28.0269,-13.119 -2.9816,-3.5779 1.7889,15.5042 3.5779,20.2748 -10.7337,-4.7706 -42.3386,-14.908 -44.7238,-17.8896 -2.3853,-2.9816 4.1742,10.7338 7.7521,14.908 -4.7706,-1.789 -8.9448,-2.3853 -8.9448,-2.3853 l 13.7153,14.3116 -4.1742,1.1927 c 0,0 8.9448,6.5595 8.9448,9.5411 0,2.9815 -23.2564,6.5595 -23.2564,6.5595 0,0 9.5411,5.3668 7.1558,8.3484 -2.3853,2.9816 -8.3485,4.7705 -8.3485,4.7705 l -1.1926,7.7522 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1268.3681,3059.9358 c 20.8242,8.3485 28.8335,16.1006 25.0958,20.8712 8.5433,2.3852 11.747,64.4023 3.7377,75.7323 -0.534,1.1927 -4.2716,4.7706 -2.6698,5.3669 1.6019,0.5963 11.213,-1.1926 12.8149,1.1926 1.6019,2.3853 -14.4167,36.3754 -12.281,37.5681 2.1359,1.1926 51.2597,-21.4675 58.2011,-16.1006 6.9413,5.3668 3.2037,19.0821 5.3395,19.6785 2.1358,0.5963 21.8921,-2.9816 24.5619,-2.3853 2.6698,0.5963 7.4753,18.4858 10.1451,19.0822 2.6698,0.5963 14.9507,-7.7522 17.0865,-7.1559 2.1359,0.5964 1.0679,15.5043 3.7377,16.1006 2.6698,0.5963 14.4168,-12.5226 16.0187,-11.9263 1.6018,0.5963 7.4753,30.4122 10.1451,32.2011 2.6698,1.789 19.7563,-32.7974 21.3581,-33.3938 1.6019,-0.5963 11.747,40.5496 13.8829,41.146 2.1358,0.5963 12.8148,-28.027 14.4167,-27.4307 1.6019,0.5964 11.747,17.2933 13.8828,18.4859 2.1358,1.1926 16.0187,-36.9717 18.1544,-36.9717 2.1359,0 20.2903,16.1006 21.8922,19.0822 1.6018,2.9816 3.2037,-15.5043 5.3395,-15.5043 2.1358,0 26.6977,10.7337 27.2317,10.1374 0.534,-0.5963 -3.7377,-11.9264 -2.1358,-11.9264 1.6018,0 26.6977,14.908 27.7656,11.9264 1.0678,-2.9816 54.4633,14.9079 58.201,12.5227 3.7377,-2.3853 -24.0279,-48.8981 -21.3582,-52.476 2.6697,-3.5779 12.281,0.5963 12.8149,-1.1926 0.534,-1.789 -5.8735,-9.5411 -4.2717,-11.9264 1.6019,-2.3853 19.7564,-11.9263 21.3582,-14.9079 1.6019,-2.9816 -8.0093,-10.7338 -5.8735,-12.5227 2.1358,-1.789 33.6392,-13.119 34.1731,-16.1006 0.5339,-2.9816 -16.0186,-17.2932 -13.8828,-21.4674 2.1358,-4.1743 8.0093,-5.9632 7.4754,-8.9448 -0.534,-2.9816 -10.6791,-6.5595 -10.1452,-9.5411 0.534,-2.9816 5.8735,-17.8895 7.4754,-20.2748 1.6018,-2.3853 -11.2131,-1.1926 -11.2131,-3.5779 0,-2.3853 46.988,-66.1913 45.9201,-84.0808 -16.5526,11.33 -73.1517,31.6048 -90.7722,26.8343 -17.6205,-4.7706 -10.679,-34.5864 -13.3488,-36.3754 -2.6698,-1.789 -22.4261,10.1374 -25.0959,5.9632 -2.6698,-4.1742 -3.7377,-11.9264 -5.8735,-11.9264 -2.1358,0 -14.4168,16.6969 -17.0865,16.1006 -2.6698,-0.5963 -27.7657,-26.8343 -31.5033,-27.4306 -3.7377,-0.5963 -18.1545,10.1374 -21.3582,10.7337 -3.2037,0.5963 -5.8735,-14.3116 -8.5432,-13.119 -2.6698,1.1926 -19.7564,11.9264 -22.4261,10.7337 -2.6698,-1.1926 -4.8056,-5.9631 -6.9414,-4.7705 -2.1358,1.1926 -11.747,5.9632 -11.747,5.9632 0,0 -6.9414,-3.5779 -10.1451,-3.5779 -3.2037,0 -25.0958,19.6784 -27.7656,20.8711 -2.6698,1.1926 -25.6299,-45.3202 -24.0279,-48.8981 1.6018,-3.5779 -24.028,49.4944 -27.7657,51.2834 -3.7377,1.7889 -14.9507,-3.578 -16.0186,-1.789 -1.0679,1.789 -4.2716,11.33 -7.4754,11.9264 -3.2037,0.5963 -10.679,2.9815 -10.679,2.9815 l 1.0678,3.578 c 0,0 -22.426,-9.5411 -25.0958,-13.119 -2.6698,-3.5779 1.6018,15.5042 3.2037,20.2748 -9.6111,-4.7706 -37.9107,-14.908 -40.0465,-17.8896 -2.1358,-2.9816 3.7377,10.7338 6.9414,14.908 -4.2717,-1.789 -8.0094,-2.3853 -8.0094,-2.3853 l 12.281,14.3116 -3.7377,1.1927 c 0,0 8.0094,6.5595 8.0094,9.5411 0,2.9815 -20.8242,6.5595 -20.8242,6.5595 0,0 8.5432,5.3668 6.4074,8.3484 -2.1359,2.9816 -7.4754,4.7705 -7.4754,4.7705 l -1.0679,7.7522 z"
        id="path5888"
        inkscape:connector-curvature="0" />
     <path
@@ -583,30 +583,36 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(95.913764,51.076194)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.3564908,0,0,1.3564908,-618.02182,-920.74785)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
            width="729.65997"
            height="244.4361"
            x="1291.4982"
-           y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara5806">다행이다! 아직도 포션을</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3478">만들기엔 오늘이 있어!!</flowPara></flowRoot>    <flowRoot
+           y="2671.1877"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3478">다행이다, 준비할 수 있는</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3479">시간이 아직 하루나 남아있어!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2105727,0,0,1.3236545,-232.36895,-523.44567)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.8010501,0,0,1.9692894,-1239.308,-2316.8551)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
-           width="255.3718"
-           height="60.357471"
+           width="390.88272"
+           height="156.95305"
            x="1319.3975"
-           y="2707.6389" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara5840">꼭 이겨야지!</flowPara></flowRoot>  </g>
+           y="2707.6389"
+           style="line-height:100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara5840">한번 우승해</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3483">보자!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara3481" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -616,7 +622,7 @@
        xml:space="preserve"
        id="flowRoot3755"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.96259044,-0.21776919,0.59474385,1.0425364,-1063.3509,179.48063)"><flowRegion
+       transform="matrix(0.96259044,-0.21776919,0.59474385,1.0425364,-1082.6504,160.18112)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
            id="rect3759"
@@ -629,7 +635,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">코모나 포션</flowPara><flowPara
          id="flowPara3775"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">대회</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.76226518,-0.19066182,0.58337307,0.8770208,-720.55284,599.12845)"
+       transform="matrix(0.74132481,-0.1854241,0.56734709,0.85292795,-699.87752,595.75296)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
@@ -642,11 +648,13 @@
            width="743.04053"
            id="rect3355" /></flowRegion><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="flowPara3371">1등: 상금 50 000콤</flowPara><flowPara
+         id="flowPara3474">가장 훌륭한 포션을</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="flowPara3466">*가장 훌룡한 포션을</flowPara><flowPara
+         id="flowPara3466">만드는 자에게</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="flowPara3474">만드는자*</flowPara></flowRoot>    <flowRoot
+         id="flowPara3468">50 000콤</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="flowPara3470">상금 부여</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -659,8 +667,8 @@
            x="296.72992"
            y="1655.0723"
            style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara3413"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">시간: 아요일, 3, 핑크색의 달.</flowPara><flowPara
          id="flowPara3415"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">장소: 코모나 광장.</flowPara></flowRoot>  </g>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">아자요일 오후 3월</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="flowPara3475">코모나 대광장 </flowPara></flowRoot>  </g>
 </svg>

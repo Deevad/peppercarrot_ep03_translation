@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="969"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="1349.4565"
-     inkscape:cy="1050.3756"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="1125.5439"
+     inkscape:cy="2165.6458"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,8 +82,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 280.23979,2358.4608 c -54.41549,-7.2554 -134.22488,-30.8355 -149.64261,-75.2748 -15.41772,-44.4393 -11.79002,-99.7617 19.95235,-124.2487 31.74237,-24.487 86.15787,-45.3462 133.31796,-37.1839 47.1601,8.1623 108.83099,38.0908 123.34179,79.8094 14.5108,41.7185 0.90692,130.5972 -59.85705,147.8287 -60.76396,17.2316 -67.11244,9.0693 -67.11244,9.0693 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 286.56445,2352.9568 c -46.10847,-7.088 -113.73422,-30.1239 -126.7983,-73.5377 -13.06406,-43.4138 -9.99016,-97.4595 16.90645,-121.3814 26.8966,-23.9219 73.00508,-44.2998 112.96575,-36.3259 39.96067,7.974 92.21694,37.2119 104.51254,77.9677 12.29559,40.7558 0.76847,127.5834 -50.71933,144.4172 -51.48778,16.834 -56.86711,8.8601 -56.86711,8.8601 z"
        id="path3970"
        inkscape:connector-curvature="0" />
     <path
@@ -92,8 +92,8 @@
        id="path3978"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 977.66503,2219.7013 c 0,-58.0432 27.20777,-87.9717 107.92407,-93.4133 80.7163,-5.4415 300.1921,-10.8831 335.5622,8.1623 35.3701,19.0455 48.067,44.4394 49.8809,82.5302 1.8138,38.0908 -78.9025,97.041 -159.6188,94.3202 -80.7163,-2.7208 -194.0819,2.7208 -237.6143,-10.8831 -43.5324,-13.6039 -92.50637,-34.4632 -96.13407,-80.7163 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 977.66503,2224.0127 c 0,-60.5827 20.78238,-91.8206 82.43677,-97.5002 61.6542,-5.6796 229.2987,-11.3593 256.3157,8.5194 27.0171,19.8787 36.7155,46.3836 38.101,86.1409 1.3854,39.7573 -60.2688,101.2867 -121.9232,98.4468 -61.6543,-2.8398 -148.2475,2.8399 -181.4993,-11.3592 -33.2517,-14.1991 -70.65998,-35.971 -73.43097,-84.2477 z"
        id="path3986"
        inkscape:connector-curvature="0" />
     <path
@@ -103,14 +103,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscczc" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1802.0598,2259.606 c -15.4178,-30.8355 -48.974,-41.7186 -58.0432,-43.5324 28.1146,-3.6277 43.5324,-4.5346 55.3224,2.7208 -27.2078,-24.487 -34.4632,-36.277 -39.9047,-38.9978 -5.4416,-2.7208 17.2316,-3.6277 28.1147,0 -0.907,-7.2554 9.0692,-2.7208 9.0692,-2.7208 l -17.2316,-20.8593 20.8593,8.1624 -6.3485,-43.5324 40.8117,7.2554 17.2315,-34.4632 4.5347,23.5801 79.8093,-38.9978 2.7208,35.3701 58.0432,-34.4632 22.6731,32.6493 18.1385,-24.487 5.4416,18.1385 65.2986,-18.1385 1.8138,27.2078 80.7163,-9.0693 -21.7662,22.6732 34.4632,1.8138 -18.1385,8.1623 19.9523,2.7208 -31.7423,19.0454 37.1839,2.7208 c 0,0 -10.8831,11.79 -17.2316,14.5108 9.9762,5.4416 26.3008,10.8831 26.3008,10.8831 0,0 -17.2315,7.2554 -23.58,8.1623 9.9762,6.3485 17.2316,7.2554 17.2316,7.2554 l -9.9762,3.6277 33.5562,21.7662 -42.6255,4.5346 c 0,0 14.5108,11.7901 19.9524,12.697 -15.4177,-0.9069 -27.2078,-1.8139 -27.2078,-1.8139 0,0 12.697,9.9762 16.3247,9.9762 3.6277,0 -19.0454,1.8139 -19.0454,1.8139 13.6038,12.6969 24.4869,15.4177 24.4869,15.4177 l -42.6254,-1.8139 -8.1624,28.1147 -15.4177,-22.6731 -7.2554,69.8332 -51.6947,-68.0194 -21.7662,20.8593 -24.487,-27.2077 -38.0908,80.7163 0.9069,-57.1363 -65.2986,36.277 17.2316,-29.9285 -109.7379,29.0216 23.58,-30.8355 -50.7878,0.907 12.697,-19.9524 c 0,0 -66.2055,11.79 -61.6709,9.0693 4.5346,-2.7208 26.3009,-17.2315 35.3701,-29.0216 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 1825.3966,2254.0523 c -13.5105,-27.0208 -42.9154,-36.5576 -50.8627,-38.147 24.6366,-3.1789 38.147,-3.9736 48.4785,2.3842 -23.8419,-21.4577 -30.1998,-31.7891 -34.9681,-34.1734 -4.7684,-2.3842 15.0999,-3.1789 24.6366,0 -0.7948,-6.3578 7.9473,-2.3842 7.9473,-2.3842 l -15.0999,-18.2787 18.2788,7.1526 -5.5631,-38.147 35.7628,6.3578 15.0998,-30.1997 3.9737,20.663 69.9361,-34.1734 2.3842,30.9945 50.8626,-30.1998 19.8682,28.6103 15.8946,-21.4577 4.7684,15.8945 57.2205,-15.8945 1.5894,23.8419 70.7309,-7.9474 -19.0735,19.8683 30.1997,1.5894 -15.8946,7.1526 17.484,2.3842 -27.8154,16.6893 32.5838,2.3842 c 0,0 -9.5367,10.3314 -15.0998,12.7156 8.742,4.7685 23.0471,9.5368 23.0471,9.5368 0,0 -15.0998,6.3578 -20.6629,7.1525 8.742,5.5631 15.0998,6.3579 15.0998,6.3579 l -8.742,3.1789 29.405,19.0735 -37.3523,3.9736 c 0,0 12.7156,10.3315 17.4841,11.1262 -13.5104,-0.7947 -23.842,-1.5895 -23.842,-1.5895 0,0 11.1263,8.7421 14.3052,8.7421 3.1789,0 -16.6893,1.5895 -16.6893,1.5895 11.9209,11.1261 21.4576,13.5103 21.4576,13.5103 l -37.3522,-1.5895 -7.1526,24.6367 -13.5103,-19.8682 -6.3579,61.1941 -45.2995,-59.6047 -19.0735,18.2788 -21.4577,-23.8419 -33.3786,70.7309 0.7947,-50.068 -57.2204,31.7892 15.0998,-26.226 -96.1621,25.4313 20.6629,-27.0208 -44.5048,0.7948 11.1262,-17.4841 c 0,0 -58.0152,10.3314 -54.0416,7.9473 3.9737,-2.3842 23.0472,-15.0998 30.9945,-25.4313 z"
        id="path4002"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsccccccccccccccccccccccccccccccccsc" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1680.5318,2333.0669 c 7.2554,-44.4393 46.2532,-81.6233 89.7856,-88.8787 43.5324,-7.2554 402.6746,5.4416 429.8824,16.3247 27.2077,10.8831 68.9263,19.0454 57.1363,95.2271 -11.7901,76.1817 -63.4848,92.5063 -115.1795,94.3202 -51.6947,1.8138 -359.1423,12.6969 -402.6747,-29.0216 -43.5323,-41.7185 -60.7639,-38.0908 -58.9501,-87.9717 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 1726.2673,2335.3268 c 5.9696,-37.415 38.0557,-68.7215 73.8728,-74.8301 35.8172,-6.1086 331.3082,4.5815 353.6939,13.7443 22.3856,9.1629 56.7104,16.035 47.0099,80.1751 -9.7005,64.1401 -52.2333,77.8844 -94.7661,79.4116 -42.5328,1.5271 -295.491,10.6899 -331.3081,-24.4344 -35.8171,-35.1242 -49.9947,-32.07 -48.5024,-74.0665 z"
        id="path4010"
        inkscape:connector-curvature="0" />
     <path
@@ -127,36 +127,38 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(22.035887,1895.6508)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.91197395px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2.774304,22.194432)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
-           width="267.19342"
-           height="146.93536"
-           x="112.2296"
-           y="279.40198"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
+           width="421.09622"
+           height="231.56981"
+           x="57.775215"
+           y="2140.9873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.64789581px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3033"> ... 아!</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024">알겠다!</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.64789581px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3024">그래!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(879.39544,1890.0077)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.6203336,0,0,1.6203336,681.01553,1671.6993)"><flowRegion
          id="flowRegion2989-5-5"><rect
            id="rect2991-7-8"
-           width="511.33221"
-           height="66.601181"
+           width="418.87445"
+           height="140.22493"
            x="87.260864"
            y="296.04782"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024-5">... 그게 필요하지!</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3372">... 그게 딱</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3376">필요하지!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.6940983,0,0,1.5764632,1384.3211,1737.9306)"><flowRegion
+       transform="matrix(2.9174652,0,0,2.7148817,951.20839,1403.8505)"><flowRegion
          id="flowRegion2989-5-5-0"><rect
            id="rect2991-7-8-3"
            width="469.71762"
@@ -164,25 +166,23 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3024-5-4">당근아!!</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3024-5-4">캐럿!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-5-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.93931899,0,0,0.94897175,1635.707,2013.5722)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.3495605,0,0,1.3634291,1460.814,1919.1229)"><flowRegion
          id="flowRegion2989-5-5-8"><rect
            id="rect2991-7-8-5"
            width="583.94647"
            height="187.58496"
            x="81.712257"
            y="268.30475"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131">준비해, 지금 우리가</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3379">비밀의 재료들을 찾으러</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3381">갈거니까.</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3381">어서 준비해, 같이</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3382">재료를 찾으러 가자.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"

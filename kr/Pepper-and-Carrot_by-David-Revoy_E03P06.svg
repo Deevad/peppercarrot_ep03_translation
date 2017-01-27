@@ -39,30 +39,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="969"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.36045077"
-     inkscape:cx="1388.5984"
-     inkscape:cy="689.83077"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="0.51"
+     inkscape:cx="1235.7745"
+     inkscape:cy="957.66567"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep03_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -70,7 +70,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 159.76021,952.9225 c 7.1965,-81.55976 67.1669,-143.92898 112.7444,-157.12247 45.5775,-13.19349 209.8964,-2.39882 226.6881,0 16.7918,2.39882 109.1462,37.18165 131.9349,80.36035 22.7888,43.17869 -9.5952,163.11952 -62.3692,190.70592 -52.7739,27.5864 -211.0958,49.1757 -233.8846,44.3781 -22.7887,-4.7976 -183.5094,-43.1787 -175.1136,-158.3219 z"
+       d="m 165.64256,966.2554 c 7.1965,-67.52954 67.1669,-119.16977 112.7444,-130.09367 45.5775,-10.92389 209.8964,-1.98616 226.6881,0 16.7918,1.98617 109.1462,30.78553 131.9349,66.53646 22.7888,35.75093 -9.5952,135.05911 -62.3692,157.90001 -52.7739,22.8409 -211.0958,40.7163 -233.8846,36.744 -22.7887,-3.9723 -183.5094,-35.751 -175.1136,-131.0868 z"
        id="path3021"
        inkscape:connector-curvature="0" />
     <path
@@ -81,7 +81,7 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1218.246,3142.3097 c 2.8185,-93.0106 142.2795,-103.4392 214.4114,-108.9878 72.1319,-5.5486 263.5588,-24.9687 335.6907,49.9375 72.1319,74.9062 33.2917,141.4895 -11.0972,160.9096 -44.3888,19.4202 -63.809,55.4861 -97.1006,55.4861 -33.2917,0 -297.782,7.0019 -365.3993,-30.1129 -36.0596,-19.793 -79.3235,-34.2218 -76.505,-127.2325 z"
+       d="m 1232.3937,3137.4614 c 2.4773,-79.896 125.0537,-88.8541 188.4525,-93.6203 63.3989,-4.7663 231.6497,-21.4481 295.0486,42.8962 63.3988,64.3443 29.2611,121.5393 -9.7536,138.2212 -39.0147,16.6819 -56.0837,47.6624 -85.3446,47.6624 -29.2611,0 -261.7295,6.0147 -321.1604,-25.8669 -31.6938,-17.0022 -69.7198,-29.3965 -67.2425,-109.2926 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -99,7 +99,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-63.111416,572.62572)"><flowRegion
+       transform="matrix(1.3769204,0,0,1.3769204,-233.71842,479.14559)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="693.56396"
@@ -107,16 +107,16 @@
            x="115.00391"
            y="284.95059"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3019">... 화산의 계곡에서</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3364">태어난 불사조의</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3368">알껍질 이랑...</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3364">... 거기다 화산</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3366">계곡에 있는 불사조의</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3368">알 껍질이랑...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1071.7068,2814.2573)"><flowRegion
+       transform="matrix(1.51295,0,0,1.51295,818.60066,2627.281)"><flowRegion
          id="flowRegion2989-9"><rect
            id="rect2991-9"
            width="595.64185"
@@ -124,8 +124,8 @@
            x="142.74695"
            y="287.72488"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3117">... 마지막으로</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3374">암소용의 우유 한방울!</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3374">용소의 젖 한 방울까지</flowPara></flowRoot>  </g>
 </svg>

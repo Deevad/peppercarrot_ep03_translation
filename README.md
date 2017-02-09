@@ -33,7 +33,7 @@ License
 
 * English: David Revoy, Amireti
 
-* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto, Spenĉjo
 
 * Farsi: Aslan Zamanloo
 

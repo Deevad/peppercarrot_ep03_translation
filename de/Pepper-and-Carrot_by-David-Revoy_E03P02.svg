@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P02.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.38672559"
-     inkscape:cx="1111.0291"
-     inkscape:cy="381.98086"
+     inkscape:cx="1214.4616"
+     inkscape:cy="2554.0637"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-units="px" />
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -214,7 +214,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara4256">Bitte stellen Sie mir je</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara4258">zwei Duzend von Allem</flowPara><flowPara
+         id="flowPara4258">zwei Dutzend von allem</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara4260">zusammen. Premium-</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"

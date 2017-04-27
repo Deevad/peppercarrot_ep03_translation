@@ -27,7 +27,7 @@ License
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup og Juan José Segura
+* Dansk: Marie Moestrup og Juan José Segura; rettelser: [Alexandre](https://github.com/Alkarex) & Rikke Alapetite
 
 * Dutch: Willem Sonke
 

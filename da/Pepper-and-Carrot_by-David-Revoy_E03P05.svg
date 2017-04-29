@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1337.3114"
-     inkscape:cy="693.56238"
+     inkscape:cx="1295.0937"
+     inkscape:cy="1276.3714"
      inkscape:window-x="1179"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep03_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P05.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -109,7 +109,7 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3017">Først har jeg brug</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3009">for et par dugdråber fra de sorte skyer ...</flowPara><flowPara
+         id="flowPara3009">for et par dugdråber fra de sorte skyer...</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3005"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -126,5 +126,5 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3059">... og nogle røde bær</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3016">fra den hjemsøgte skov ...</flowPara></flowRoot>  </g>
+         id="flowPara3016">fra den hjemsøgte skov...</flowPara></flowRoot>  </g>
 </svg>

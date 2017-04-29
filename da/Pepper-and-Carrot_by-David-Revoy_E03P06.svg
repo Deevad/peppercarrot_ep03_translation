@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.50975437"
-     inkscape:cx="1214.1846"
-     inkscape:cy="902.32606"
+     inkscape:cx="1179.8543"
+     inkscape:cy="897.58508"
      inkscape:window-x="1179"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep03_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -115,7 +115,7 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3013">fra vulkan-dalens</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara27">føniks ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara27">føniks...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"><flowRegion

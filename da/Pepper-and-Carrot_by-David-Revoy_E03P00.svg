@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40071843"
-     inkscape:cx="1325.9283"
+     inkscape:cx="1282.2567"
      inkscape:cy="1121.7706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep03_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E03P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P00.png"
-       width="2646.3999"
-       height="707.20001"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="707.20001"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,5 +82,5 @@
            y="556.89893"
            style="fill:#301b0b;fill-opacity:1;stroke-width:1.13777781" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.80000305px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1;stroke-width:1.06666672">Episode 3 : De hemmelige ingredienser</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.80000305px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1;stroke-width:1.06666672">Episode 3: De hemmelige ingredienser</flowPara></flowRoot>  </g>
 </svg>

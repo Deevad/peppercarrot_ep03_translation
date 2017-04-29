@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.38544754"
-     inkscape:cx="1259.4974"
-     inkscape:cy="2140.4425"
+     inkscape:cx="1214.0956"
+     inkscape:cy="1246.1508"
      inkscape:window-x="1179"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep03_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2646.3999"
        height="3736.5334"
-       width="2646.3999" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -160,7 +160,7 @@
            y="1209.7252"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3017-3">Det ser ...</flowPara><flowPara
+         id="flowPara3017-3">Det ser...</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3057"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -175,7 +175,7 @@
            y="1326.2277"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3017-3-3">... perfekt ud</flowPara><flowPara
+         id="flowPara3017-3-3">...perfekt ud</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3057-7"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -190,7 +190,7 @@
            y="2325.4805"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3017-3-3-0">Mmm ...</flowPara><flowPara
+         id="flowPara3017-3-3-0">Mmm...</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara3057-7-3"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -205,7 +205,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:64px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3149">Bedste ... Kaffe ... Nogensinde!</flowPara><flowPara
+         id="flowPara3149">Bedste... Kaffe... Nogensinde!</flowPara><flowPara
          style="font-size:64px;line-height:1.25;text-align:center;text-anchor:middle"
          id="flowPara3057-7-3-2"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -231,7 +231,7 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara81">til morgendagens</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara3067">konkurrence !</flowPara></flowRoot>    <flowRoot
+         id="flowPara3067">konkurrence!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -265,6 +265,6 @@
          sodipodi:role="line"
          id="tspan65"
          x="933.97925"
-         y="2561.2761"> </tspan></text>
+         y="2561.2761" /></text>
   </g>
 </svg>

@@ -13,11 +13,27 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="955"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="946.95571"
+     inkscape:cy="1458.9628"
+     inkscape:current-layer="layer4"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -639,15 +655,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1220.6834"
-     inkscape:cy="195.56197"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1226.3403"
+     inkscape:cy="189.90512"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4" />
   <g
@@ -656,7 +672,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="G:\Pepper And Carrot\Translation\peppercarrot_ep03_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        y="0"
        x="0"
@@ -666,15 +682,16 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796" /></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796"
+         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -709,7 +726,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-33.93704,26.934058)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -718,14 +735,14 @@
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
          id="flowPara5804"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita Bold">Ευτυχώς, έχω </flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle">Ευτυχώς, έχω </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle"
          id="flowPara3163">ακόμα ολόκληρη μέρα</flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle"
          id="flowPara5806">να ετοιμαστώ! </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.2105727,0,0,1.3236545,-222.30321,-510.30176)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
@@ -733,9 +750,9 @@
            height="131.11342"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-size:56.8787117px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.8787117px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold'"
          id="flowPara5840">Πάμε να το</flowPara><flowPara
-         style="font-size:56.8787117px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.8787117px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold'"
          id="flowPara3181">κερδίσουμε!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -745,7 +762,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-size:67.07809448px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:VAG-HandWritten Bold Italic"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'VAG-HandWritten Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none"
        transform="matrix(0.77211542,-0.12606645,0.42467308,0.833339,-626.45811,463.47824)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -754,13 +771,13 @@
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;font-style:italic;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1;-inkscape-font-specification:VAG-HandWritten Bold Italic" /></flowRegion><flowPara
+           style="font-style:italic;font-size:67.07809448px;-inkscape-font-specification:'VAG-HandWritten Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3775"
-         style="font-size:86.24326324px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:url(#linearGradient3129);fill-opacity:1;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten">Διαγώνισμός Φίλτρου</flowPara><flowPara
-         style="font-size:86.24326324px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:url(#linearGradient3131);fill-opacity:1;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.24326324px;line-height:100%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;fill:url(#linearGradient3129);fill-opacity:1">Διαγώνισμός Φίλτρου</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.24326324px;line-height:100%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;fill:url(#linearGradient3131);fill-opacity:1"
          id="flowPara3123">της Κομόνα</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-643.7298,766.67604)"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-651.2298,751.67604)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
@@ -771,19 +788,19 @@
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="font-size:81.42827606px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:url(#linearGradient3383);fill-opacity:1;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.42827606px;line-height:100%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;fill:url(#linearGradient3383);fill-opacity:1"
          id="flowPara3363"><flowSpan
-           style="font-size:91.60681152px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:url(#linearGradient3142);font-family:Pecita;-inkscape-font-specification:Pecita Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:91.60681152px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';fill:url(#linearGradient3142)"
            id="flowSpan3133">50 000</flowSpan><flowSpan
            id="flowSpan3139"
-           style="font-size:81.42827606px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:url(#linearGradient3144);font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten Bold"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.42827606px;line-height:100%;font-family:VAG-HandWritten;-inkscape-font-specification:'VAG-HandWritten Bold';fill:url(#linearGradient3144)"><flowSpan
    style="font-size:91.60681152px;fill:url(#linearGradient3177)"
    id="flowSpan3161">Κο</flowSpan> βραβείο</flowSpan></flowPara><flowPara
-         style="font-size:81.42827606px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:url(#linearGradient3385);fill-opacity:1;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.42827606px;line-height:100%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;fill:url(#linearGradient3385);fill-opacity:1"
          id="flowPara3371">ΓΙΑ ΤΟ ΚΑΛΥΤΕΡΟ ΦΙΛΤΡΟ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none"
        transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-614.42385,975.33913)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect

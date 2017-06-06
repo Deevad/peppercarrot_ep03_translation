@@ -13,11 +13,27 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="955"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="1044.4231"
+     inkscape:cy="1628.6204"
+     inkscape:current-layer="layer3"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -505,14 +521,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1391.7801"
-     inkscape:cy="1365.574"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1396.605"
+     inkscape:cy="1360.7491"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4" />
   <g
@@ -521,7 +537,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        y="0"
        x="0"
@@ -531,22 +547,23 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796" /></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796"
+         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1268.3681,3059.9358 c 25.4675,8.3485 35.2626,16.1006 30.6915,20.8712 10.4482,2.3852 14.3663,64.4023 4.5711,75.7323 -0.653,1.1927 -5.2241,4.7706 -3.2651,5.3669 1.9591,0.5963 13.7133,-1.1926 15.6724,1.1926 1.959,2.3853 -17.6314,36.3754 -15.0194,37.5681 2.6121,1.1926 62.6893,-21.4675 71.1784,-16.1006 8.4891,5.3668 3.9181,19.0821 6.5301,19.6785 2.612,0.5963 26.7735,-2.9816 30.0386,-2.3853 3.265,0.5963 9.1421,18.4858 12.4072,19.0822 3.265,0.5963 18.2843,-7.7522 20.8964,-7.1559 2.6121,0.5964 1.306,15.5043 4.571,16.1006 3.2651,0.5963 17.6314,-12.5226 19.5905,-11.9263 1.959,0.5963 9.1421,30.4122 12.4072,32.2011 3.265,1.789 24.1615,-32.7974 26.1204,-33.3938 1.9591,-0.5963 14.3663,40.5496 16.9784,41.146 2.6121,0.5963 15.6723,-28.027 17.6313,-27.4307 1.959,0.5964 14.3663,17.2933 16.9783,18.4859 2.6121,1.1926 19.5904,-36.9717 22.2024,-36.9717 2.6121,0 24.8145,16.1006 26.7736,19.0822 1.9589,2.9816 3.918,-15.5043 6.53,-15.5043 2.6121,0 32.6506,10.7337 33.3037,10.1374 0.653,-0.5963 -4.5711,-11.9264 -2.6121,-11.9264 1.959,0 32.6507,14.908 33.9566,11.9264 1.306,-2.9816 66.6073,14.9079 71.1784,12.5227 4.5711,-2.3853 -29.3855,-48.8981 -26.1205,-52.476 3.265,-3.5779 15.0193,0.5963 15.6723,-1.1926 0.653,-1.789 -7.1831,-9.5411 -5.2241,-11.9264 1.9591,-2.3853 24.1615,-11.9263 26.1204,-14.9079 1.9591,-2.9816 -9.7951,-10.7338 -7.1831,-12.5227 2.6121,-1.789 41.1398,-13.119 41.7928,-16.1006 0.653,-2.9816 -19.5903,-17.2932 -16.9783,-21.4674 2.6121,-4.1743 9.7952,-5.9632 9.1422,-8.9448 -0.653,-2.9816 -13.0603,-6.5595 -12.4073,-9.5411 0.6531,-2.9816 7.1831,-17.8895 9.1422,-20.2748 1.959,-2.3853 -13.7132,-1.1926 -13.7132,-3.5779 0,-2.3853 57.4651,-66.1913 56.159,-84.0808 -20.2434,11.33 -89.4627,31.6048 -111.0121,26.8343 -21.5494,-4.7706 -13.0602,-34.5864 -16.3252,-36.3754 -3.2651,-1.789 -27.4266,10.1374 -30.6917,5.9632 -3.265,-4.1742 -4.571,-11.9264 -7.1831,-11.9264 -2.612,0 -17.6313,16.6969 -20.8963,16.1006 -3.2651,-0.5963 -33.9567,-26.8343 -38.5278,-27.4306 -4.571,-0.5963 -22.2024,10.1374 -26.1205,10.7337 -3.918,0.5963 -7.1831,-14.3116 -10.4482,-13.119 -3.265,1.1926 -24.1615,11.9264 -27.4264,10.7337 -3.2651,-1.1926 -5.8772,-5.9631 -8.4893,-4.7705 -2.6119,1.1926 -14.3662,5.9632 -14.3662,5.9632 0,0 -8.4892,-3.5779 -12.4072,-3.5779 -3.9181,0 -30.6915,19.6784 -33.9566,20.8711 -3.2651,1.1926 -31.3447,-45.3202 -29.3856,-48.8981 1.959,-3.5779 -29.3855,49.4944 -33.9567,51.2834 -4.571,1.7889 -18.2843,-3.578 -19.5903,-1.789 -1.306,1.789 -5.2241,11.33 -9.1422,11.9264 -3.9181,0.5963 -13.0602,2.9815 -13.0602,2.9815 l 1.306,3.578 c 0,0 -27.4265,-9.5411 -30.6916,-13.119 -3.265,-3.5779 1.959,15.5042 3.9181,20.2748 -11.7542,-4.7706 -46.3639,-14.908 -48.9759,-17.8896 -2.612,-2.9816 4.5711,10.7338 8.4892,14.908 -5.2242,-1.789 -9.7953,-2.3853 -9.7953,-2.3853 l 15.0193,14.3116 -4.571,1.1927 c 0,0 9.7952,6.5595 9.7952,9.5411 0,2.9815 -25.4675,6.5595 -25.4675,6.5595 0,0 10.4482,5.3668 7.8361,8.3484 -2.6121,2.9816 -9.1422,4.7705 -9.1422,4.7705 l -1.306,7.7522 z"
+       d="m 1230.8681,3059.9358 c 27.186,8.3485 37.6421,16.1006 32.7625,20.8712 11.1533,2.3852 15.3357,64.4023 4.8796,75.7323 -0.6971,1.1927 -5.5766,4.7706 -3.4854,5.3669 2.0913,0.5963 14.6386,-1.1926 16.7299,1.1926 2.0912,2.3853 -18.8211,36.3754 -16.0329,37.5681 2.7884,1.1926 66.9195,-21.4675 75.9814,-16.1006 9.0619,5.3668 4.1825,19.0821 6.9708,19.6785 2.7882,0.5963 28.5801,-2.9816 32.0655,-2.3853 3.4853,0.5963 9.759,18.4858 13.2444,19.0822 3.4853,0.5963 19.5181,-7.7522 22.3065,-7.1559 2.7883,0.5964 1.3941,15.5043 4.8794,16.1006 3.4854,0.5963 18.8211,-12.5226 20.9124,-11.9263 2.0912,0.5963 9.759,30.4122 13.2445,32.2011 3.4853,1.789 25.7918,-32.7974 27.8829,-33.3938 2.0913,-0.5963 15.3357,40.5496 18.1241,41.146 2.7883,0.5963 16.7298,-28.027 18.821,-27.4307 2.0912,0.5964 15.3357,17.2933 18.124,18.4859 2.7883,1.1926 20.9123,-36.9717 23.7006,-36.9717 2.7883,0 26.4889,16.1006 28.5802,19.0822 2.0911,2.9816 4.1824,-15.5043 6.9706,-15.5043 2.7884,0 34.8538,10.7337 35.551,10.1374 0.6971,-0.5963 -4.8795,-11.9264 -2.7884,-11.9264 2.0912,0 34.854,14.908 36.248,11.9264 1.3941,-2.9816 71.1018,14.9079 75.9814,12.5227 4.8795,-2.3853 -31.3684,-48.8981 -27.8831,-52.476 3.4853,-3.5779 16.0328,0.5963 16.7298,-1.1926 0.6971,-1.789 -7.6678,-9.5411 -5.5766,-11.9264 2.0913,-2.3853 25.7919,-11.9263 27.883,-14.9079 2.0913,-2.9816 -10.4561,-10.7338 -7.6678,-12.5227 2.7883,-1.789 43.9158,-13.119 44.6129,-16.1006 0.697,-2.9816 -20.9122,-17.2932 -18.124,-21.4674 2.7884,-4.1743 10.4562,-5.9632 9.7591,-8.9448 -0.697,-2.9816 -13.9416,-6.5595 -13.2445,-9.5411 0.6972,-2.9816 7.6678,-17.8895 9.7591,-20.2748 2.0912,-2.3853 -14.6385,-1.1926 -14.6385,-3.5779 0,-2.3853 61.3427,-66.1913 59.9485,-84.0808 -21.6094,11.33 -95.4995,31.6048 -118.503,26.8343 -23.0036,-4.7706 -13.9415,-34.5864 -17.4268,-36.3754 -3.4855,-1.789 -29.2773,10.1374 -32.7628,5.9632 -3.4853,-4.1742 -4.8794,-11.9264 -7.6678,-11.9264 -2.7882,0 -18.821,16.6969 -22.3063,16.1006 -3.4854,-0.5963 -36.248,-26.8343 -41.1276,-27.4306 -4.8794,-0.5963 -23.7006,10.1374 -27.8831,10.7337 -4.1823,0.5963 -7.6678,-14.3116 -11.1532,-13.119 -3.4853,1.1926 -25.7919,11.9264 -29.2771,10.7337 -3.4854,-1.1926 -6.2737,-5.9631 -9.0621,-4.7705 -2.7882,1.1926 -15.3356,5.9632 -15.3356,5.9632 0,0 -9.062,-3.5779 -13.2444,-3.5779 -4.1825,0 -32.7625,19.6784 -36.248,20.8711 -3.4854,1.1926 -33.4597,-45.3202 -31.3684,-48.8981 2.0911,-3.5779 -31.3684,49.4944 -36.2481,51.2834 -4.8794,1.7889 -19.5181,-3.578 -20.9122,-1.789 -1.3941,1.789 -5.5766,11.33 -9.7591,11.9264 -4.1825,0.5963 -13.9415,2.9815 -13.9415,2.9815 l 1.3942,3.578 c 0,0 -29.2772,-9.5411 -32.7627,-13.119 -3.4853,-3.5779 2.0912,15.5042 4.1825,20.2748 -12.5473,-4.7706 -49.4924,-14.908 -52.2807,-17.8896 -2.7882,-2.9816 4.8796,10.7338 9.0621,14.908 -5.5768,-1.789 -10.4563,-2.3853 -10.4563,-2.3853 l 16.0328,14.3116 -4.8795,1.1927 c 0,0 10.4562,6.5595 10.4562,9.5411 0,2.9815 -27.186,6.5595 -27.186,6.5595 0,0 11.1532,5.3668 8.3648,8.3484 -2.7883,2.9816 -9.7591,4.7705 -9.7591,4.7705 l -1.3941,7.7522 z"
        id="path5888"
        inkscape:connector-curvature="0" />
     <path
@@ -556,8 +573,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccsc" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1294.1424,2775.8828 c 8.6749,-44.9519 41.0088,-71.7653 59.1473,-81.2289 18.1385,-9.4636 227.9142,-20.5044 273.6547,-22.0817 45.7406,-1.5772 178.2305,-2.3659 235.8005,25.2362 57.57,27.6021 78.863,64.6677 79.6517,85.9607 0.7886,21.293 -20.5044,78.0744 -129.3354,95.4243 -108.831,17.3499 -221.6052,14.984 -263.4026,11.8294 -41.7974,-3.1545 -170.3441,-5.5204 -209.7756,-42.586 -39.4316,-37.0656 -44.952,-45.7406 -45.7406,-72.554 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 1316.6424,2775.8828 c 8.0393,-44.9519 38.004,-71.7653 54.8135,-81.2289 16.8095,-9.4636 211.2146,-20.5044 253.6037,-22.0817 42.389,-1.5772 165.1712,-2.3659 218.523,25.2362 53.3518,27.6021 73.0846,64.6677 73.8155,85.9607 0.7308,21.293 -19.002,78.0744 -119.8588,95.4243 -100.8568,17.3499 -205.3679,14.984 -244.1027,11.8294 -38.7348,-3.1545 -157.8628,-5.5204 -194.405,-42.586 -36.5425,-37.0656 -41.6584,-45.7406 -42.3892,-72.554 z"
        id="path5909"
        inkscape:connector-curvature="0" />
     <path
@@ -574,7 +591,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(98.326202,41.426441)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -583,14 +600,14 @@
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
          id="flowPara5804"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'">ラッキーね、まだ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'">ラッキーね、まだ</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          id="flowPara3472">準備に丸一日使える！</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-         id="flowPara5806" /></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         id="flowPara5806"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.2105727,0,0,1.3236545,-249.13164,-525.85811)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
@@ -598,13 +615,13 @@
            height="244.4361"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          id="flowPara5840">このコンテスト</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          id="flowPara3476">優勝してみせる !</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-4"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4330);fill-opacity:1;stroke:none;text-anchor:start;text-align:start;writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1;stroke:none"
        transform="translate(357.14203,-1028.7035)"><flowRegion
          id="flowRegion5800-6"
          style="fill:url(#linearGradient4330);fill-opacity:1"><rect
@@ -613,23 +630,23 @@
            height="432.60623"
            x="1291.4982"
            y="2671.1877"
-           style="fill:url(#linearGradient4330);fill-opacity:1;-inkscape-font-specification:'Rounded M+ 1c, Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48.00000191px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
          id="flowPara3472-5">コモマ魔法薬コンテスト</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-         id="flowPara3510" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
+         id="flowPara3510"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
          id="flowPara3512">一番の魔法薬を作った</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
          id="flowPara4284">優勝者には50000KOの賞金</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-         id="flowPara3514" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
+         id="flowPara3514"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
          id="flowPara3518">ピンクムーン3のアザーデイに</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
          id="flowPara3522">コモナ広場で開催</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000191px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:url(#linearGradient4330);fill-opacity:1;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-         id="flowPara5806-4" /></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4330);fill-opacity:1"
+         id="flowPara5806-4"> </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -638,7 +655,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-width:4.46848612;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        transform="matrix(0.87931782,-0.14193179,0.48363573,0.93821387,-808.96564,287.15116)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -647,30 +664,30 @@
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848612;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;" /></flowRegion><flowPara
+           style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848612;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;">Komona Potion</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Komona Potion</flowPara><flowPara
          id="flowPara3775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848612;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;">Challenge</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-630.83406,774.20654)"
-       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;font-family:Arial;-inkscape-font-specification:Arial;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.46848631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Challenge</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-648.33406,756.70654)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
          id="flowRegion3353"><rect
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+           style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
            y="1655.0723"
            x="296.72992"
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3363">50 000Ko  grand prize</flowPara><flowPara
-         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ba894f;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3371">FOR THE BEST POTION</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-600.03196,993.97365)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect
@@ -681,7 +698,7 @@
            y="1655.0723"
            style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3413"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">On Azarday, 3 Pinkmoon</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">On Azarday, 3 Pinkmoon</flowPara><flowPara
          id="flowPara3415"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Grand Plaza of Komona</flowPara></flowRoot>  </g>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Grand Plaza of Komona</flowPara></flowRoot>  </g>
 </svg>

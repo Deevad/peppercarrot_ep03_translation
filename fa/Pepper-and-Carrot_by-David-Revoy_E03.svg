@@ -12,10 +12,26 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 unknown"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="955"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="0.60835"
+     inkscape:cx="531.58705"
+     inkscape:cy="344.57479"
+     inkscape:current-layer="layer2"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -104,15 +120,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="847"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380221"
-     inkscape:cx="560.39411"
-     inkscape:cy="339.99894"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:cx="562.60698"
+     inkscape:cy="328.93457"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -121,7 +137,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 3\peppercarrot_ep03_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/fa/../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
      y="0"
      x="0"
@@ -135,15 +151,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;filter:url(#filter3836)"
-       transform="matrix(0.69723552,0,0,0.69723552,-789.82473,214.17975)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;filter:url(#filter3836)"
+       transform="matrix(0.69723552,0,0,0.69723552,-822.70054,215.82354)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
-           width="2405.8"
-           height="107.55731"
+           width="2474.1699"
+           height="168.85446"
            x="739.22333"
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.396492px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">قسمت 3: مواد اولیه سری</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.396492px;line-height:1.25;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">قسمت 3: مواد اولیه سری</flowPara></flowRoot>  </g>
 </svg>

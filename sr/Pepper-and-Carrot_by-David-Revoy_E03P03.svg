@@ -13,11 +13,27 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="955"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="1219.4231"
+     inkscape:cy="423.6204"
+     inkscape:current-layer="layer1"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -513,15 +529,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.20725919"
-     inkscape:cx="868.01254"
-     inkscape:cy="1522.6871"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="877.66229"
+     inkscape:cy="1513.0373"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -530,7 +546,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/run/media/milenche/Data/Projekti/Pepper and Carrot Translations/peppercarrot_ep03_translation/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        y="0"
        x="0"
@@ -540,23 +556,23 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796" /></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796"
+         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles"
-     sodipodi:insensitive="true">
+     inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1268.3681,3059.9358 c 23.2564,8.3485 32.2011,16.1006 28.0269,20.8712 9.5411,2.3852 13.119,64.4023 4.1742,75.7323 -0.5963,1.1927 -4.7705,4.7706 -2.9816,5.3669 1.789,0.5963 12.5227,-1.1926 14.3117,1.1926 1.7889,2.3853 -16.1006,36.3754 -13.7154,37.5681 2.3853,1.1926 57.2466,-21.4675 64.9987,-16.1006 7.7521,5.3668 3.5779,19.0821 5.9632,19.6785 2.3852,0.5963 24.449,-2.9816 27.4306,-2.3853 2.9816,0.5963 8.3484,18.4858 11.33,19.0822 2.9816,0.5963 16.6969,-7.7522 19.0822,-7.1559 2.3853,0.5964 1.1926,15.5043 4.1742,16.1006 2.9816,0.5963 16.1006,-12.5226 17.8896,-11.9263 1.7889,0.5963 8.3484,30.4122 11.33,32.2011 2.9816,1.789 22.0638,-32.7974 23.8527,-33.3938 1.789,-0.5963 13.119,40.5496 15.5043,41.146 2.3853,0.5963 14.3116,-28.027 16.1006,-27.4307 1.7889,0.5964 13.119,17.2933 15.5042,18.4859 2.3853,1.1926 17.8896,-36.9717 20.2748,-36.9717 2.3853,0 22.6601,16.1006 24.4491,19.0822 1.7889,2.9816 3.5779,-15.5043 5.9631,-15.5043 2.3853,0 29.8159,10.7337 30.4123,10.1374 0.5963,-0.5963 -4.1743,-11.9264 -2.3853,-11.9264 1.7889,0 29.8159,14.908 31.0085,11.9264 1.1926,-2.9816 60.8244,14.9079 64.9987,12.5227 4.1742,-2.3853 -26.8343,-48.8981 -23.8528,-52.476 2.9816,-3.5779 13.7154,0.5963 14.3117,-1.1926 0.5963,-1.789 -6.5595,-9.5411 -4.7706,-11.9264 1.789,-2.3853 22.0638,-11.9263 23.8527,-14.9079 1.789,-2.9816 -8.9447,-10.7338 -6.5595,-12.5227 2.3853,-1.789 37.5681,-13.119 38.1644,-16.1006 0.5963,-2.9816 -17.8895,-17.2932 -15.5043,-21.4674 2.3853,-4.1743 8.9448,-5.9632 8.3485,-8.9448 -0.5963,-2.9816 -11.9264,-6.5595 -11.3301,-9.5411 0.5964,-2.9816 6.5595,-17.8895 8.3485,-20.2748 1.7889,-2.3853 -12.5227,-1.1926 -12.5227,-3.5779 0,-2.3853 52.476,-66.1913 51.2833,-84.0808 -18.4858,11.33 -81.6955,31.6048 -101.374,26.8343 -19.6785,-4.7706 -11.9263,-34.5864 -14.9079,-36.3754 -2.9816,-1.789 -25.0454,10.1374 -28.027,5.9632 -2.9816,-4.1742 -4.1742,-11.9264 -6.5595,-11.9264 -2.3852,0 -16.1006,16.6969 -19.0821,16.1006 -2.9816,-0.5963 -31.0086,-26.8343 -35.1828,-27.4306 -4.1742,-0.5963 -20.2748,10.1374 -23.8527,10.7337 -3.5779,0.5963 -6.5595,-14.3116 -9.5411,-13.119 -2.9816,1.1926 -22.0638,11.9264 -25.0453,10.7337 -2.9816,-1.1926 -5.3669,-5.9631 -7.7522,-4.7705 -2.3852,1.1926 -13.119,5.9632 -13.119,5.9632 0,0 -7.7521,-3.5779 -11.33,-3.5779 -3.5779,0 -28.0269,19.6784 -31.0085,20.8711 -2.9816,1.1926 -28.6233,-45.3202 -26.8343,-48.8981 1.7889,-3.5779 -26.8343,49.4944 -31.0086,51.2834 -4.1742,1.7889 -16.6969,-3.578 -17.8895,-1.789 -1.1926,1.789 -4.7705,11.33 -8.3485,11.9264 -3.5779,0.5963 -11.9263,2.9815 -11.9263,2.9815 l 1.1926,3.578 c 0,0 -25.0453,-9.5411 -28.0269,-13.119 -2.9816,-3.5779 1.7889,15.5042 3.5779,20.2748 -10.7337,-4.7706 -42.3386,-14.908 -44.7238,-17.8896 -2.3853,-2.9816 4.1742,10.7338 7.7521,14.908 -4.7706,-1.789 -8.9448,-2.3853 -8.9448,-2.3853 l 13.7153,14.3116 -4.1742,1.1927 c 0,0 8.9448,6.5595 8.9448,9.5411 0,2.9815 -23.2564,6.5595 -23.2564,6.5595 0,0 9.5411,5.3668 7.1558,8.3484 -2.3853,2.9816 -8.3485,4.7705 -8.3485,4.7705 l -1.1926,7.7522 z"
+       d="m 1268.3681,3059.9358 c 25.2041,8.3485 34.8978,16.1006 30.3741,20.8712 10.3401,2.3852 14.2176,64.4023 4.5237,75.7323 -0.6462,1.1927 -5.17,4.7706 -3.2313,5.3669 1.9389,0.5963 13.5715,-1.1926 15.5103,1.1926 1.9387,2.3853 -17.449,36.3754 -14.864,37.5681 2.585,1.1926 62.0408,-21.4675 70.4421,-16.1006 8.4013,5.3668 3.8775,19.0821 6.4626,19.6785 2.5849,0.5963 26.4965,-2.9816 29.7278,-2.3853 3.2313,0.5963 9.0475,18.4858 12.2788,19.0822 3.2313,0.5963 18.0952,-7.7522 20.6803,-7.1559 2.585,0.5964 1.2924,15.5043 4.5237,16.1006 3.2313,0.5963 17.449,-12.5226 19.3878,-11.9263 1.9387,0.5963 9.0476,30.4122 12.2789,32.2011 3.2313,1.789 23.9115,-32.7974 25.8502,-33.3938 1.9389,-0.5963 14.2177,40.5496 16.8028,41.146 2.585,0.5963 15.5101,-28.027 17.4489,-27.4307 1.9387,0.5964 14.2177,17.2933 16.8026,18.4859 2.5851,1.1926 19.3878,-36.9717 21.9728,-36.9717 2.585,0 24.5578,16.1006 26.4966,19.0822 1.9387,2.9816 3.8775,-15.5043 6.4625,-15.5043 2.585,0 32.3128,10.7337 32.9592,10.1374 0.6462,-0.5963 -4.5239,-11.9264 -2.5851,-11.9264 1.9387,0 32.3129,14.908 33.6054,11.9264 1.2925,-2.9816 65.9182,14.9079 70.4421,12.5227 4.5237,-2.3853 -29.0816,-48.8981 -25.8504,-52.476 3.2313,-3.5779 14.864,0.5963 15.5102,-1.1926 0.6463,-1.789 -7.1088,-9.5411 -5.1701,-11.9264 1.9388,-2.3853 23.9116,-11.9263 25.8503,-14.9079 1.9388,-2.9816 -9.6938,-10.7338 -7.1088,-12.5227 2.585,-1.789 40.7142,-13.119 41.3605,-16.1006 0.6462,-2.9816 -19.3877,-17.2932 -16.8028,-21.4674 2.5851,-4.1743 9.6939,-5.9632 9.0477,-8.9448 -0.6462,-2.9816 -12.9252,-6.5595 -12.2789,-9.5411 0.6463,-2.9816 7.1088,-17.8895 9.0476,-20.2748 1.9387,-2.3853 -13.5714,-1.1926 -13.5714,-3.5779 0,-2.3853 56.8706,-66.1913 55.5781,-84.0808 -20.034,11.33 -88.5372,31.6048 -109.8637,26.8343 -21.3265,-4.7706 -12.9251,-34.5864 -16.1564,-36.3754 -3.2313,-1.789 -27.1429,10.1374 -30.3742,5.9632 -3.2313,-4.1742 -4.5237,-11.9264 -7.1088,-11.9264 -2.5849,0 -17.4489,16.6969 -20.6801,16.1006 -3.2313,-0.5963 -33.6055,-26.8343 -38.1293,-27.4306 -4.5237,-0.5963 -21.9727,10.1374 -25.8502,10.7337 -3.8776,0.5963 -7.1089,-14.3116 -10.3402,-13.119 -3.2313,1.1926 -23.9115,11.9264 -27.1427,10.7337 -3.2313,-1.1926 -5.8164,-5.9631 -8.4014,-4.7705 -2.585,1.1926 -14.2177,5.9632 -14.2177,5.9632 0,0 -8.4013,-3.5779 -12.2788,-3.5779 -3.8776,0 -30.3741,19.6784 -33.6054,20.8711 -3.2313,1.1926 -31.0204,-45.3202 -29.0815,-48.8981 1.9387,-3.5779 -29.0816,49.4944 -33.6055,51.2834 -4.5238,1.7889 -18.0952,-3.578 -19.3877,-1.789 -1.2924,1.789 -5.17,11.33 -9.0476,11.9264 -3.8776,0.5963 -12.9251,2.9815 -12.9251,2.9815 l 1.2925,3.578 c 0,0 -27.1428,-9.5411 -30.3741,-13.119 -3.2313,-3.5779 1.9387,15.5042 3.8776,20.2748 -11.6326,-4.7706 -45.8843,-14.908 -48.4693,-17.8896 -2.585,-2.9816 4.5238,10.7338 8.4013,14.908 -5.1701,-1.789 -9.6939,-2.3853 -9.6939,-2.3853 l 14.8639,14.3116 -4.5237,1.1927 c 0,0 9.6939,6.5595 9.6939,9.5411 0,2.9815 -25.2041,6.5595 -25.2041,6.5595 0,0 10.3402,5.3668 7.7551,8.3484 -2.5851,2.9816 -9.0477,4.7705 -9.0477,4.7705 l -1.2924,7.7522 z"
        id="path5888"
        inkscape:connector-curvature="0" />
     <path
@@ -584,7 +600,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-22.325126,47.664491)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -592,23 +608,23 @@
            height="244.4361"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3484">Благо мени, имам још цео</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3488">један дан да спремим све!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2105727,0,0,1.3236545,-504.89128,-525.85811)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.2105727,0,0,1.3236545,-477.39128,-525.85811)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
            width="729.65997"
            height="244.4361"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3492">Победићу на</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3500">овом такмичењу!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +634,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.96259044,-0.21776919,0.59474385,1.0425364,-1074.2068,186.71794)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -629,11 +645,11 @@
            y="1655.0723"
            style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara3775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.06443405px;font-family:Lobster;-inkscape-font-specification:Lobster;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Комонски изазов у</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.06443405px;font-family:Lobster;-inkscape-font-specification:Lobster;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.06443405px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Комонски изазов у</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.06443405px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;fill:#ba894f;fill-opacity:1;stroke:#7b441d;stroke-width:3.74319696;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara3464">прављењу напитака</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.76226518,-0.19066182,0.58337307,0.8770208,-721.75906,603.95333)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
@@ -644,23 +660,23 @@
            height="779.58618"
            width="743.04053"
            id="rect3355" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3371"><flowSpan
            style="font-size:67.94754028px"
            id="flowSpan3472">Главна награда</flowSpan></flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3474"><flowSpan
            style="font-size:67.94754028px"
            id="flowSpan3476">50 000ко</flowSpan></flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3470">За најбољи </flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3480">напитак</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="flowPara3468" /></flowRoot>    <flowRoot
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.11639404px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.78367996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="flowPara3468"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-554.08079,1018.3469)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect
@@ -671,7 +687,7 @@
            y="1655.0723"
            style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3413"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Нереда, у 3 плава месеца</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Нереда, у 3 плава месеца</flowPara><flowPara
          id="flowPara3415"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Главни трг у Комони</flowPara></flowRoot>  </g>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Lobster;-inkscape-font-specification:Lobster;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:4.50359678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Главни трг у Комони</flowPara></flowRoot>  </g>
 </svg>

@@ -12,26 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.46"
-     inkscape:cx="1153.8462"
-     inkscape:cy="994.34383"
-     inkscape:current-layer="layer3"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -55,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33707507"
-     inkscape:cx="1334.0537"
-     inkscape:cy="635.43149"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1328.1203"
+     inkscape:cy="641.36489"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -72,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="D:\T\oth\david\trns\ep3\peppercarrot_ep03_translation-master_si\peppercarrot_ep03_translation-master_si\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        y="0"
        x="0"
@@ -85,13 +69,13 @@
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 223.44974,2296.5145 c -6.89659,-114.21 66.20734,-151.8474 257.93273,-146.656 191.7254,5.1913 237.24294,71.3812 251.03614,111.6142 13.79319,40.2331 -16.55184,140.1668 -135.1733,184.2934 -118.62147,44.1266 -317.24347,-18.1698 -342.07122,-50.6158 -24.82775,-32.446 -30.34503,-68.7855 -31.72435,-98.6358 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 223.44974,2305.7508 c -6.89659,-121.3802 66.20734,-161.3804 257.93273,-155.8631 191.7254,5.5172 237.24294,75.8625 251.03614,118.6214 13.79319,42.7589 -16.55184,148.9665 -135.1733,195.8634 -118.62147,46.8968 -317.24347,-19.3105 -342.07122,-53.7935 -24.82775,-34.483 -30.34503,-73.1039 -31.72435,-104.8282 z"
        id="path3238"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 455.76013,2426.4563 c 28.96571,41.3796 44.13823,118.6215 -13.79319,227.5877 73.10393,-81.3798 70.34529,-179.3115 67.58665,-208.2772 -2.75864,-28.9657 -53.79346,-19.3105 -53.79346,-19.3105 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 457.93404,2454.7172 c 28.96571,41.3796 44.13823,118.6215 -13.79319,227.5877 73.10393,-81.3798 70.34529,-179.3115 67.58665,-208.2772 -2.75864,-28.9657 -53.79346,-19.3105 -53.79346,-19.3105 z"
        id="path4008"
        inkscape:connector-curvature="0" />
     <path
@@ -129,8 +113,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(57.65573,-113.68589)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(57.65573,-120.20763)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="558.34851"
@@ -139,12 +123,12 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2995"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.75px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'">කොමෝනා පුරය;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.75px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'">කොමෝනා පුරය;</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.75px;line-height:147.00000286%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'"
          id="flowPara3370">       සතිපොළ දිනය</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:-0.02px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:-0.02px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(49.1466,1932.1603)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
@@ -152,22 +136,22 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:-0.02px;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-0.02px;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;letter-spacing:-0.02px;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;letter-spacing:-0.02px;"
          id="flowPara3479">සුබ උදෑසනක් මුදලාලි මහත්තයෝ,අනේ, </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-0.02px;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;letter-spacing:-0.02px;"
          id="flowPara3483">මට තාර<flowSpan
-   style="letter-spacing:4.0999999px"
+   style="letter-spacing:4.09999995px"
    id="flowSpan3697">කා</flowSpan><flowSpan
-   style="letter-spacing:-9.5px"
+   style="letter-spacing:-9.50000027px"
    id="flowSpan3693">-</flowSpan><flowSpan
    style="letter-spacing:-0.20000008px"
    id="flowSpan3489">ව</flowSpan>ට්ටක්කා </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-0.02px;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;letter-spacing:-0.02px;"
          id="flowPara3485">අටක් දෙන්න පුළුවන්ද!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(852.44277,1921.2801)"><flowRegion
          id="flowRegion2989-5-4"><rect
            id="rect2991-7-9"
@@ -184,7 +168,7 @@
          id="flowPara3715">*කෝ.60ක් ඇති</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:125%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1798.9943,2227.6016)"><flowRegion
          id="flowRegion2989-5-4-7"><rect
            id="rect2991-7-9-4"
@@ -193,13 +177,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-1.67999995px;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;letter-spacing:-1.67999995px;text-anchor:middle"
          id="flowPara3080-9"><flowSpan
    style="letter-spacing:-10px"
    id="flowSpan3376">...</flowSpan>හපොයි</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66530597,0,0,0.68592152,838.12036,3217.8881)"><flowRegion
          id="flowRegion2989-5-4-7-7"><rect
            id="rect2991-7-9-4-3"
@@ -208,6 +192,6 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1;-inkscape-font-specification:'BhashitaComplex Bold';font-family:BhashitaComplex;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          id="flowPara3080-9-7">*කෝ. = කොමෝනා මුදල් ඒකකය</flowPara></flowRoot>  </g>
 </svg>

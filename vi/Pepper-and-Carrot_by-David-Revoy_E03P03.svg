@@ -13,27 +13,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="869.4231"
-     inkscape:cy="661.1204"
-     inkscape:current-layer="layer1"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -511,15 +495,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="827.01954"
-     inkscape:cy="1633.3546"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="822.19466"
+     inkscape:cy="1638.1795"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4" />
   <g
@@ -528,7 +512,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        width="2481"
        height="3503"
@@ -538,16 +522,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796"
-         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -582,7 +565,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(76.614258,51.076194)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -590,25 +573,25 @@
            height="244.4361"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          id="flowPara5806">Thật may mắn, mình vẫn</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          id="flowPara3506"> còn 1 ngày để chuẩn bị!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2105727,0,0,1.3236545,-459.4884,-542.65762)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.2105727,0,0,1.3236545,-449.4884,-545.15762)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
            width="729.65997"
            height="244.4361"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara5840">Chúng ta sẽ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3510">giành lấy giải thưởng</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3512">lần này.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +601,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        transform="matrix(0.84085831,-0.16262053,0.48805902,0.9220907,-813.65508,316.14428)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -628,12 +611,12 @@
            x="296.72992"
            y="1655.0723"
            style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3474">Cuộc Thi</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.05978775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3478">Thần Dược Komona </flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-645.04601,769.81947)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-652.54601,757.31947)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
@@ -644,19 +627,19 @@
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3363">Giải thưởng tới</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3484">50 000Ko </flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3371">CHO THẦN </flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="flowPara3490"><flowSpan
    id="flowSpan3498"
    style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.37446117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">DƯỢC T</flowSpan>ỐT NHẤT</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        transform="matrix(0.70173676,-0.15106122,0.55516733,0.73939256,-504.92279,1123.4675)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect
@@ -667,7 +650,7 @@
            y="1655.0723"
            style="color:#000000;font-size:67.07809448px;text-align:center;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3413"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"> Đường Azarday, 3 Pinkmoon</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"> Đường Azarday, 3 Pinkmoon</flowPara><flowPara
          id="flowPara3415"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Grand Plaza of Komona</flowPara></flowRoot>  </g>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Fondamento;-inkscape-font-specification:Fondamento;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ba894f;fill-opacity:1;fill-rule:nonzero;stroke:#7b441d;stroke-width:5.44102478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Grand Plaza of Komona</flowPara></flowRoot>  </g>
 </svg>

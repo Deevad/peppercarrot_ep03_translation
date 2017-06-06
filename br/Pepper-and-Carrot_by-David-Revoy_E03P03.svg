@@ -13,12 +13,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03_092.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -1165,15 +1165,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.31343545"
-     inkscape:cx="701.27336"
-     inkscape:cy="1134.139"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="694.89246"
+     inkscape:cy="1140.5199"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -1181,26 +1181,25 @@
      id="layer2"
      inkscape:label="artwork">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep03_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796"
-         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -1236,7 +1235,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(1.0754216,0,0,1.1715058,-86.467101,-446.2641)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -1244,11 +1243,11 @@
            height="219.26277"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="flowPara4103">Biskoazh gwell, ar genstrivadeg-mañ! Hag un devezh am eus c'hoazh evit en em brientiñ.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(1.2105727,0,0,1.3236545,-246.10936,-509.66257)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
@@ -1256,7 +1255,7 @@
            height="206.40002"
            x="1291.4982"
            y="2671.1877" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="flowPara4107">Evel-just ec'h an da gemer perzh!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -1266,7 +1265,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3484);fill-opacity:1;stroke:none"
+       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3484);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        transform="matrix(0.73192907,-0.18720078,0.47982518,0.76449899,-726.32355,585.83794)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -1277,13 +1276,13 @@
            y="1655.0723"
            style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3603);fill-opacity:1">Kenstrivadeg</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3605);fill-opacity:1"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3603);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Kenstrivadeg</flowPara><flowPara
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3605);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
          id="flowPara3601">Drammoù</flowPara><flowPara
          id="flowPara3775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient5445-2-3-1);fill-opacity:1">Komona</flowPara></flowRoot>    <flowRoot
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient5445-2-3-1);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz">Komona</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.63957111,-0.16433206,0.40979715,0.70030268,-420.55813,883.22822)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3993);fill-opacity:1;stroke:none"
+       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3993);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot3951"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3975);fill-opacity:1"
@@ -1294,12 +1293,12 @@
            height="841.94098"
            width="943.26337"
            id="rect3955" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3983);fill-opacity:1"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3983);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
          id="flowPara3963">priz bras a 50 000Ko</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient3985);fill-opacity:1"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3985);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
          id="flowPara3971">EVIT AN DRAMM GWELLAÑ</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.75035189,-0.22142045,0.52533261,0.77383898,-503.24573,1085.0559)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient4052);fill-opacity:1;stroke:none"
+       style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient4052);fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        id="flowRoot4010"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient4034);fill-opacity:1"
@@ -1310,19 +1309,18 @@
            height="841.94098"
            width="943.26337"
            id="rect4014" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient4048);fill-opacity:1"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4048);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
          id="flowPara4028">Debennak, 3 Loarroz</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:RoboKoz;-inkscape-font-specification:RoboKoz;fill:url(#linearGradient4050);fill-opacity:1"
+         style="font-size:67.07809448px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient4050);fill-opacity:1;font-family:RoboKoz;-inkscape-font-specification:RoboKoz"
          id="flowPara4030">Leurgêr Komona</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4054"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
          id="flowRegion4056"><rect
            id="rect4058"
            width="251.73268"
            height="33.564358"
            x="1619.4803"
            y="2007.2883" /></flowRegion><flowPara
-         id="flowPara4060"
-         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>  </g>
+         id="flowPara4060" /></flowRoot>  </g>
 </svg>

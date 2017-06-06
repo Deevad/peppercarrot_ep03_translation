@@ -13,27 +13,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="984.4231"
-     inkscape:cy="2046.1204"
-     inkscape:current-layer="layer4"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -603,6 +587,15 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3504"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
        id="linearGradient3512"
        gradientUnits="userSpaceOnUse"
        x1="618.94147"
@@ -627,33 +620,6 @@
        y1="2316.8098"
        x2="1024.5358"
        y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient961"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient963"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5427-1-2"
-       id="linearGradient965"
-       gradientUnits="userSpaceOnUse"
-       x1="618.94147"
-       y1="2316.8098"
-       x2="1024.5358"
-       y2="1619.6255" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -664,15 +630,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1250.4025"
-     inkscape:cy="185.89166"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1245.5776"
+     inkscape:cy="190.71654"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -681,7 +647,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot_ep03_translation-master/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        width="2481"
        height="3503"
@@ -691,16 +657,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796"
-         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -735,7 +700,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(-39.182779,24.539373)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -743,16 +708,16 @@
            height="244.4361"
            x="1291.4982"
            y="2671.1877"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;"
          id="flowPara3526">Повезло, у меня еще</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;"
          id="flowPara3530">целый день</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;"
          id="flowPara3532">на подготовку!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
        transform="matrix(1.2105727,0,0,1.3236545,-225.13164,-525.85811)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
@@ -760,10 +725,10 @@
            height="244.4361"
            x="1291.4982"
            y="2671.1877"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
+           style="-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;"
          id="flowPara5840">Выиграем это</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;"
          id="flowPara3536">соревнование!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -771,8 +736,8 @@
      inkscape:label="fx"
      style="filter:url(#filter3347);opacity:0.7265625">
     <flowRoot
-       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-645.30869,732.4946)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gabriela;-inkscape-font-specification:Gabriela;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none"
+       transform="matrix(0.7080212,-0.14309456,0.51212683,0.7689921,-645.30869,752.4946)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Gabriela;-inkscape-font-specification:Gabriela;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
          style="fill:url(#linearGradient3375);fill-opacity:1"
@@ -783,19 +748,19 @@
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.61584473px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3502);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.61584473px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3502);fill-opacity:1"
          id="flowPara3363">Главный приз -</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.06217957px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient963);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.06217957px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3504);fill-opacity:1"
          id="flowPara3486"><flowSpan
-   style="font-size:114.5085144px;fill:url(#linearGradient961)"
+   style="font-size:114.5085144px"
    id="flowSpan3518">50 000</flowSpan>Kо   </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.06217957px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient965);fill-opacity:1"
-         id="flowPara3522"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3385);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.80792236px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3504);fill-opacity:1"
+         id="flowPara3522"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3385);fill-opacity:1"
          id="flowPara3371">ЗА ЛУЧШЕЕ ЗЕЛЬЕ   </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Gabriela;-inkscape-font-specification:Gabriela;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Gabriela;-inkscape-font-specification:Gabriela;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none"
        transform="matrix(0.77211542,-0.12606645,0.42467308,0.833339,-656.82054,422.58802)"><flowRegion
          id="flowRegion3757"
          style="fill:url(#linearGradient5441);fill-opacity:1"><rect
@@ -805,16 +770,16 @@
            x="296.72992"
            y="1655.0723"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Gabriela;-inkscape-font-specification:Gabriela;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3488);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3488);fill-opacity:1"
          id="flowPara3474">Соревнование</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3498);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3498);fill-opacity:1"
          id="flowPara3494">ЗЕЛЬЕВАРОВ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.91292191px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3500);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.91292191px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3500);fill-opacity:1"
          id="flowPara3496">в Комоне!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none"
-       transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-574.10807,1022.1349)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.91292191px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none"
+       transform="matrix(0.73981395,-0.16569197,0.58529146,0.81100502,-556.60807,1044.6349)"><flowRegion
          id="flowRegion3397"
          style="fill:url(#linearGradient3419);fill-opacity:1"><rect
            id="rect3399"
@@ -824,9 +789,9 @@
            y="1655.0723"
            style="font-size:47.91292191px;text-align:center;text-anchor:middle;fill:url(#linearGradient3417);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.93469238px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3512);fill-opacity:1">В занятницу, 3-го Розоволуния</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3514);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.93469238px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3512);fill-opacity:1">В занятницу, 3-го Розоволуния</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3514);fill-opacity:1"
          id="flowPara3510">ГЛАВНАЯ ПЛОЩАДЬ КОМОНЫ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.90203857px;line-height:1.25;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3516);fill-opacity:1"
-         id="flowPara3508"> </flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.91292191px;font-family:Gabriela;-inkscape-font-specification:Gabriela;fill:url(#linearGradient3516);fill-opacity:1"
+         id="flowPara3508" /></flowRoot>  </g>
 </svg>

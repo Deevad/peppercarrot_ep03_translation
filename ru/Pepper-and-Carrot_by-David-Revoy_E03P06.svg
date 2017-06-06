@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36045077"
-     inkscape:cx="844.83478"
-     inkscape:cy="795.25431"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="839.28617"
+     inkscape:cy="800.80292"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot_ep03_translation-master/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(-74.208632,586.49724)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -106,16 +106,16 @@
            height="308.9158"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;font-size:50px;" /></flowRegion><flowPara
          id="flowPara2995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle">... плюс скорлупа</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;">... плюс скорлупа</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;"
          id="flowPara3015">яиц Фениксов из</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;"
          id="flowPara3019">долины вулканов ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1071.7068,2814.2573)"><flowRegion
          id="flowRegion2989-9"><rect
            id="rect2991-9"
@@ -124,10 +124,10 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3111">... и наконец, капля</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3115">молока молодой</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3117">Дракоровы</flowPara></flowRoot>  </g>
 </svg>

@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.27255257"
-     inkscape:cx="717.29283"
-     inkscape:cy="1009.36"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="709.9548"
+     inkscape:cy="1016.698"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="C:\Users\Rumiko\Desktop\Pepper&amp;Carrot\peppercarrot_ep03_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -131,7 +131,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(408.71268,-137.28313)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -141,14 +141,14 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2995"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle">キャロット、</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle">キャロット、</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara4185">これでいいはず</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3017">全部揃ったわ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(296.71434,868.58695)"><flowRegion
          id="flowRegion2989-57"><rect
            id="rect2991-1"
@@ -157,13 +157,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3017-3">いい感じ ...</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(297.95115,977.80802)"><flowRegion
          id="flowRegion2989-57-9"><rect
            id="rect2991-1-7"
@@ -172,13 +172,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3017-3-3">... カンペキよ</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057-7"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057-7" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(215.17296,1914.6074)"><flowRegion
          id="flowRegion2989-57-9-5"><rect
            id="rect2991-1-7-6"
@@ -187,13 +187,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3017-3-3-0">ああ ...</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c';text-align:center;text-anchor:middle"
-         id="flowPara3057-7-3"> </flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c';text-align:center;text-anchor:middle"
+         id="flowPara3057-7-3" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6-0-1"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042827px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;text-anchor:middle;text-align:center;writing-mode:lr;"
        transform="matrix(1.0270069,0,0,1.0526176,191.3772,2052.5853)"><flowRegion
          id="flowRegion2989-57-9-5-4"><rect
            id="rect2991-1-7-6-9"
@@ -201,16 +201,16 @@
            height="220.44458"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042725px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042725px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';font-size:72.00042827px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042827px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;text-anchor:middle;writing-mode:lr;line-height:125%;"
          id="flowPara3017-3-3-0-3">今までで、最高の</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042725px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042827px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;text-anchor:middle;writing-mode:lr;line-height:125%;"
          id="flowPara3149">コーヒー !</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:72.00042725px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="flowPara3057-7-3-2"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:72.00042827px;text-align:center;text-anchor:middle;-inkscape-font-specification:'Rounded M+ 1c, Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;line-height:125%;"
+         id="flowPara3057-7-3-2" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(174.26071,2325.2608)"><flowRegion
          id="flowRegion2989-3"><rect
            id="rect2991-15"
@@ -219,19 +219,19 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
-         id="flowPara4215"> </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         id="flowPara4215" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara4221">明日のコンテストのため</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara4191">最高の魔法薬を徹夜で</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara4229">作りあげるには</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara4243">これが必要不可欠ね</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1782.1297,3155.1742)"><flowRegion
          id="flowRegion2989-3-2"><rect
            id="rect2991-15-0"
@@ -240,24 +240,23 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3195-9"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
    id="flowSpan4198">続く ..</flowSpan>.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="818.1908"
        y="2787.5417"
-       id="text4223"><tspan
+       id="text4223"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4225"
          x="818.1908"
-         y="2787.5417"
-         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan><tspan
+         y="2787.5417" /><tspan
          sodipodi:role="line"
          x="818.1908"
          y="2837.5417"
-         id="tspan4227"
-         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
+         id="tspan4227" /></text>
   </g>
 </svg>

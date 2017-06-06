@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.47669614"
-     inkscape:cx="1295.1044"
-     inkscape:cy="-94.308506"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1290.9089"
+     inkscape:cy="-90.112961"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot_ep03_translation-master/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -113,7 +113,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(85.65573,-114.20763)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -121,14 +121,14 @@
            height="226.82907"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha">Город Комона;</flowPara><flowPara
+         style="font-size:48px;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Город Комона;</flowPara><flowPara
          id="flowPara2995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha">           Базарный день</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">           Базарный день</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.0567925,0,0,1.036894,23.79604,1915.6326)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
@@ -138,16 +138,16 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara2995-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle">Доброе утро, сэр,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle">Доброе утро, сэр,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3029">мне, пожалуйста,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3031">восемь тыквенных</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3033">звёздочек</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.2581422,0,0,1.1287224,767.51171,1888.015)"><flowRegion
          id="flowRegion2989-5-4"><rect
            id="rect2991-7-9"
@@ -156,13 +156,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3080">Вот, 60Ko*</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3378">за всё</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.3025763,0,0,1.3120814,1670.2349,2133.3435)"><flowRegion
          id="flowRegion2989-5-4-7"><rect
            id="rect2991-7-9-4"
@@ -171,11 +171,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3080-9">...ой-ой...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66530597,0,0,0.68592152,846.51145,3222.0836)"><flowRegion
          id="flowRegion2989-5-4-7-7"><rect
            id="rect2991-7-9-4-3"
@@ -184,6 +184,6 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
          id="flowPara3080-9-7">* Ko = денежная единица Комоны</flowPara></flowRoot>  </g>
 </svg>

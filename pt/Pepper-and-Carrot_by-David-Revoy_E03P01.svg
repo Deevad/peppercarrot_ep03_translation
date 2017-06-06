@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91pre3 r13670"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33707507"
-     inkscape:cx="587.63751"
-     inkscape:cy="766.65856"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="581.70411"
+     inkscape:cy="772.59196"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4168" />
   <g
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/pt/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="C:\Users\Frederico\Desktop\Pepper\peppercarrot_ep03_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -115,7 +115,7 @@
      inkscape:groupmode="layer">
     <flowRoot
        transform="matrix(0.89863026,0,0,1,60.081129,-114.20763)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4170"
        xml:space="preserve"><flowRegion
          id="flowRegion4172"><rect
@@ -125,12 +125,12 @@
            height="140.82039"
            width="533.17523"
            id="rect4174" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25"
+         style="font-size:48px"
          id="flowPara4176">Cidade de Komona;</flowPara><flowPara
-         style="font-size:48px;line-height:1.25"
+         style="font-size:48px"
          id="flowPara4178">               Dia de feira</flowPara></flowRoot>    <flowRoot
        transform="translate(55.1466,1940.1603)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4180"
        xml:space="preserve"><flowRegion
          id="flowRegion4182"><rect
@@ -140,16 +140,16 @@
            height="310.73996"
            width="602.40173"
            id="rect4184" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4186">Bom dia Senhor,</flowPara><flowPara
          id="flowPara4188"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">Eu gostaria de oito</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle">Eu gostaria de oito</flowPara><flowPara
          id="flowPara4192"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">estrelabóboras, </flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle">estrelabóboras, </flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4222">por favor</flowPara></flowRoot>    <flowRoot
        transform="translate(872.44277,1931.2801)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4194"
        xml:space="preserve"><flowRegion
          id="flowRegion4196"><rect
@@ -160,11 +160,11 @@
            width="602.40173"
            id="rect4198" /></flowRegion><flowPara
          id="flowPara4200"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">Aqui está,</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle">Aqui está,</flowPara><flowPara
          id="flowPara4202"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">são 60Ko*</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle">são 60Ko*</flowPara></flowRoot>    <flowRoot
        transform="translate(1800.9943,2227.6016)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4204"
        xml:space="preserve"><flowRegion
          id="flowRegion4206"><rect
@@ -175,9 +175,9 @@
            width="602.40173"
            id="rect4208" /></flowRegion><flowPara
          id="flowPara4210"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">...Ai ai</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle">...Ai ai</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.66530597,0,0,0.68592152,838.12036,3217.8881)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4212"
        xml:space="preserve"><flowRegion
          id="flowRegion4214"><rect
@@ -188,5 +188,5 @@
            width="884.68256"
            id="rect4216" /></flowRegion><flowPara
          id="flowPara4218"
-         style="font-size:48px;line-height:1.25;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1">* Ko = unidade monetária de Komona</flowPara></flowRoot>  </g>
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1">* Ko = unidade monetária de Komona</flowPara></flowRoot>  </g>
 </svg>

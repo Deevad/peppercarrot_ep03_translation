@@ -12,26 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.26300649"
-     inkscape:cx="1146.226"
-     inkscape:cy="1361.3993"
-     inkscape:current-layer="layer3"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -55,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33707507"
-     inkscape:cx="1251.7403"
-     inkscape:cy="3064.9772"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1245.8069"
+     inkscape:cy="3070.9106"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -72,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ar/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="C:\Users\Mahwiii\Desktop\Manga\translations\pepper carrot\peppercarrot_ep03_translation-master\ar\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        y="0"
        x="0"
@@ -95,8 +79,8 @@
        id="path4008"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1082.7663,2269.3219 c -2.7679,-76.4267 24.911,-119.5036 220.0466,-108.3869 195.1357,11.1165 197.9036,58.3622 190.9839,108.3869 -6.9197,50.0247 -22.1431,62.531 -44.2861,73.6475 -22.1431,11.1167 -184.4211,1.3835 -216.2517,-0.01 -31.8307,-1.3897 -104.8226,-13.8897 -114.5102,-19.4479 -22.1564,-12.7122 -35.9825,-30.5707 -35.9825,-54.1935 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1082.7663,2269.3219 c -2.7679,-76.4267 24.911,-119.5036 220.0466,-108.3869 195.1357,11.1165 197.9036,58.3622 190.9839,108.3869 -6.9197,50.0247 -22.1431,62.531 -44.2861,73.6475 -22.1431,11.1167 -161.9211,-11.1165 -193.7517,-12.5061 -31.8307,-1.3897 -127.3226,-1.3897 -137.0102,-6.9479 -22.1564,-12.7122 -35.9825,-30.5707 -35.9825,-54.1935 z"
        id="path4027"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -129,8 +113,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-67.221748,-118.41432)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:74.00000095%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-49.721748,-105.91432)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="558.34851"
@@ -141,10 +125,10 @@
          id="flowPara2993"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:70.99999785%;font-family:Midan;-inkscape-font-specification:Midan">          مدينةُ كومانا؛</flowPara><flowPara
          id="flowPara2995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:70.99999785%;font-family:Midan;-inkscape-font-specification:Midan" /></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:70.99999785%;font-family:Midan;-inkscape-font-specification:Midan">يومُ السوق</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(51.1466,1920.1603)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
@@ -167,7 +151,7 @@
          id="flowPara3033">رجائاً</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(872.44277,1917.2801)"><flowRegion
          id="flowRegion2989-5-4"><rect
            id="rect2991-7-9"
@@ -176,13 +160,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:89.99999762%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:89.99999762%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;"
          id="flowPara3033-8">ها هي،</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:89.99999762%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:89.99999762%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;"
          id="flowPara3080">انها بثمانين كو*</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1800.9943,2199.6016)"><flowRegion
          id="flowRegion2989-5-4-7"><rect
            id="rect2991-7-9-4"
@@ -191,11 +175,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
          id="flowPara3080-9">... يا إلاهي</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66530597,0,0,0.68592152,838.12036,3217.8881)"><flowRegion
          id="flowRegion2989-5-4-7-7"><rect
            id="rect2991-7-9-4-3"
@@ -204,32 +188,17 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.01539612px;line-height:1.25;font-family:Midan;-inkscape-font-specification:Midan;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.01539817px;font-family:Midan;-inkscape-font-specification:Midan;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
          id="flowPara3080-9-7">*كو : هي عملة كومانا.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="329.35025"
        y="2366.0073"
-       id="text3372"><tspan
+       id="text3372"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3374"
          x="329.35025"
-         y="2366.0073"
-         style="font-size:40px;line-height:1.25"> </tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(291.77289,-63.771249)"><flowRegion
-         id="flowRegion2989-6"><rect
-           id="rect2991-75"
-           width="558.34851"
-           height="226.82907"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:74.00000095%;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara2993-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:70.99999785%;font-family:Midan;-inkscape-font-specification:Midan" /><flowPara
-         id="flowPara2995-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:70.99999785%;font-family:Midan;-inkscape-font-specification:Midan">يومُ السوق</flowPara></flowRoot>  </g>
+         y="2366.0073" /></text>
+  </g>
 </svg>

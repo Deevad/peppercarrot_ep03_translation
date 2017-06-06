@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P02_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P02.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33628312"
-     inkscape:cx="882.70995"
-     inkscape:cy="1297.5519"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="876.76258"
+     inkscape:cy="1303.4993"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -172,7 +172,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-136.02088,-451.54088)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -180,13 +180,13 @@
            height="243.72992"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara2997">Xin lỗi..., tôi </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3415">chỉ có đủ cho bốn trái.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1244.543,-382.09742)"><flowRegion
          id="flowRegion2989-7"><rect
            id="rect2991-1"
@@ -194,11 +194,11 @@
            height="178.52246"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara2997-1">Hừ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(356.10871,517.86506)"><flowRegion
          id="flowRegion2989-6"><rect
            id="rect2991-0"
@@ -206,21 +206,21 @@
            height="340.50882"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara2997-6">Xin chào quí ngài.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3426">Làm ơn chuẩn bị</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3436">một tá các thứ</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3442">cho tôi, </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3438">Chất lượng cao, </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.375px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3434">như mọi khi.  </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(415.29626,973.72424)"><flowRegion
          id="flowRegion2989-6-3"><rect
            id="rect2991-0-3"
@@ -228,15 +228,15 @@
            height="238.49596"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3453">Rất vui khi</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3457">được giúp cô,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3459">cô Saffron</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(655.2445,1335.9016)"><flowRegion
          id="flowRegion2989-6-3-5"><rect
            id="rect2991-0-3-3"
@@ -244,13 +244,13 @@
            height="158.84502"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3178">Nhìn kìa,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3463">đó là Hạt Tiêu.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(548.84964,1519.1516)"><flowRegion
          id="flowRegion2989-6-3-5-1"><rect
            id="rect2991-0-3-3-7"
@@ -258,15 +258,15 @@
            height="239.63644"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3214">Tui đoán là </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3470">chuyện làm ăn </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3472">không tốt khi ở ngoại thành nhỉ?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1166839,0,0,1.2016907,884.86096,1771.4848)"><flowRegion
          id="flowRegion2989-6-3-5-2"><rect
            id="rect2991-0-3-3-1"
@@ -274,11 +274,11 @@
            height="145.35382"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3178-4">...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(223.25577,2227.3551)"><flowRegion
          id="flowRegion2989-6-3-5-1-2"><rect
            id="rect2991-0-3-3-7-1"
@@ -286,17 +286,17 @@
            height="347.90109"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3288">Tui đoán là </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3481">cô đã chuẩn bị </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3483">nguyên liệu cho cuộc thi thần dược</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3292">ngày mai, phải chứ?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8-4-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(791.12268,2333.1146)"><flowRegion
          id="flowRegion2989-6-3-5-1-2-0"><rect
            id="rect2991-0-3-3-7-1-3"
@@ -304,11 +304,11 @@
            height="154.22458"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3347">... cuộc thi thần dược?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-5-4-3-8-4-1-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(834.8748,2546.9913)"><flowRegion
          id="flowRegion2989-6-3-5-1-2-0-9"><rect
            id="rect2991-0-3-3-7-1-3-7"
@@ -316,6 +316,6 @@
            height="154.22458"
            x="481.16055"
            y="638.16943" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;text-anchor:middle"
          id="flowPara3347-5">...vào ngày mai?</flowPara></flowRoot>  </g>
 </svg>

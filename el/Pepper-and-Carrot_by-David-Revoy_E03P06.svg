@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P06.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25487718"
-     inkscape:cx="676.12678"
-     inkscape:cy="1920.3315"
+     inkscape:cx="668.27986"
+     inkscape:cy="1928.1784"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
+       sodipodi:absref="/home/dimitrisax/Επιφάνεια εργασίας/pepper&amp;carrot/peppercarrot_ep03_translation-master/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(19.281208,578.51091)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -107,11 +107,11 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Bold';text-align:center;text-anchor:middle"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita Bold"
          id="flowPara3019">... λίγα τσόφλια αυγού από την κοιλάδα ηφαιστείων του φοίνικα ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(1099.171,2841.7216)"><flowRegion
          id="flowRegion2989-9"><rect
            id="rect2991-9"
@@ -120,6 +120,6 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:56px;line-height:100%;font-family:Pecita;-inkscape-font-specification:Pecita;text-align:center;text-anchor:middle"
+         style="font-size:56px;text-align:center;line-height:100%;text-anchor:middle;font-family:Pecita;-inkscape-font-specification:Pecita"
          id="flowPara3117">... και τέλος, μιά σταγόνα γάλα απο μία μικρή δρακο-αγελάδα ...</flowPara></flowRoot>  </g>
 </svg>

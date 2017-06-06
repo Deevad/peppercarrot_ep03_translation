@@ -13,28 +13,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P03.svg"
    enable-background="new">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1101.9231"
-     inkscape:cy="1028.6204"
-     inkscape:current-layer="layer3"
-     inkscape:snap-nodes="false"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -514,6 +497,96 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3373"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3375"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3383"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3385"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3393"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3417"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3419"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3433"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3435"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
+       id="linearGradient3437"
+       gradientUnits="userSpaceOnUse"
+       x1="618.94147"
+       y1="2316.8098"
+       x2="1024.5358"
+       y2="1619.6255" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5427-1-2"
        id="linearGradient3474"
        gradientUnits="userSpaceOnUse"
        x1="618.94147"
@@ -530,15 +603,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41451838"
-     inkscape:cx="1203.3599"
-     inkscape:cy="290.23842"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1198.535"
+     inkscape:cy="295.0633"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4" />
   <g
@@ -547,7 +620,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/ar/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
+       sodipodi:absref="C:\Users\Mahwiii\Desktop\Manga\translations\pepper carrot\peppercarrot_ep03_translation-master\ar\..\gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P03.png"
        width="2481"
        height="3503"
@@ -557,23 +630,22 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5790"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"><flowRegion
          id="flowRegion5792"><rect
            id="rect5794"
            width="698.64941"
            height="222.5463"
            x="1276.9049"
            y="2673.0117"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         id="flowPara5796"
-         style="font-size:48px;line-height:1.25"> </flowPara></flowRoot>  </g>
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara5796" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1266.4871,3057.4537 c 23.2564,6.875 32.2011,13.2588 28.0269,17.1874 9.5411,1.9642 13.119,53.035 4.1742,62.3652 -0.5963,0.9822 -4.7705,3.9286 -2.9816,4.4196 1.789,0.4912 12.5227,-0.982 14.3117,0.9822 1.7889,1.9642 -16.1006,29.9549 -13.7154,30.9372 2.3853,0.9821 57.2466,-17.6784 64.9987,-13.2588 7.7521,4.4195 3.5779,15.7141 5.9632,16.2051 2.3852,0.4911 24.449,-2.4553 27.4306,-1.9642 2.9816,0.491 8.3484,15.2229 11.33,15.714 2.9816,0.4912 16.6969,-6.3838 19.0822,-5.8928 2.3853,0.4912 1.1926,12.7678 4.1742,13.2588 2.9816,0.4911 16.1006,-10.3122 17.8896,-9.8212 1.7889,0.491 8.3484,25.0443 11.33,26.5175 2.9816,1.4732 22.0638,-27.0085 23.8527,-27.4997 1.789,-0.4911 13.119,33.3924 15.5043,33.8835 2.3853,0.491 14.3116,-23.0801 16.1006,-22.589 1.7889,0.4911 13.119,14.241 15.5042,15.223 2.3853,0.9822 17.8896,-30.4461 20.2748,-30.4461 2.3853,0 22.6601,13.2588 24.4491,15.7142 1.7889,2.4554 3.5779,-12.7678 5.9631,-12.7678 2.3853,0 29.8159,8.8392 30.4123,8.3482 0.5963,-0.4911 -4.1743,-9.8214 -2.3853,-9.8214 1.7889,0 29.8159,12.2767 31.0085,9.8214 1.1926,-2.4554 60.8244,12.2765 64.9987,10.3124 4.1742,-1.9643 -26.8343,-40.2674 -23.8528,-43.2138 2.9816,-2.9464 13.7154,0.491 14.3117,-0.9821 0.5963,-1.4733 -6.5595,-7.857 -4.7706,-9.8214 1.789,-1.9642 22.0638,-9.8212 23.8527,-12.2766 1.789,-2.4553 -8.9447,-8.8392 -6.5595,-10.3124 2.3853,-1.4732 37.5681,-10.8034 38.1644,-13.2587 0.5963,-2.4554 -17.8895,-14.241 -15.5043,-17.6784 2.3853,-3.4374 8.9448,-4.9106 8.3485,-7.366 -0.5963,-2.4553 -11.9264,-5.4017 -11.3301,-7.857 0.5964,-2.4554 6.5595,-14.7319 8.3485,-16.6963 1.7889,-1.9642 -12.5227,-0.982 -12.5227,-2.9464 0,-1.9642 52.476,-54.5082 51.2833,-69.2402 -18.4858,9.3303 -81.6955,26.0265 -101.374,22.098 -19.6785,-3.9285 -11.9263,-28.4818 -14.9079,-29.955 -2.9816,-1.4732 -25.0454,8.3481 -28.027,4.9106 -2.9816,-3.4374 -4.1742,-9.8212 -6.5595,-9.8212 -2.3852,0 -16.1006,13.7498 -19.0821,13.2587 -2.9816,-0.4911 -31.0086,-22.0979 -35.1828,-22.589 -4.1742,-0.491 -20.2748,8.3481 -23.8527,8.8392 -3.5779,0.4911 -6.5595,-11.7856 -9.5411,-10.8035 -2.9816,0.9822 -22.0638,9.8214 -25.0453,8.8392 -2.9816,-0.9821 -5.3669,-4.9106 -7.7522,-3.9285 -2.3852,0.9821 -13.119,4.9107 -13.119,4.9107 0,0 -7.7521,-2.9464 -11.33,-2.9464 -3.5779,0 -28.0269,16.2051 -31.0085,17.1872 -2.9816,0.9822 -28.6233,-37.3209 -26.8343,-40.2673 1.7889,-2.9464 -26.8343,40.7584 -31.0086,42.2317 -4.1742,1.4731 -16.6969,-2.9465 -17.8895,-1.4733 -1.1926,1.4733 -4.7705,9.3302 -8.3485,9.8213 -3.5779,0.4911 -11.9263,2.4553 -11.9263,2.4553 l 1.1926,2.9465 c 0,0 -25.0453,-7.857 -28.0269,-10.8034 -2.9816,-2.9464 1.7889,12.7676 3.5779,16.6962 -10.7337,-3.9286 -42.3386,-12.2767 -44.7238,-14.7321 -2.3853,-2.4553 4.1742,8.8393 7.7521,12.2767 -4.7706,-1.4732 -8.9448,-1.9643 -8.9448,-1.9643 l 13.7153,11.7856 -4.1742,0.9822 c 0,0 8.9448,5.4017 8.9448,7.857 0,2.4553 -23.2564,5.4018 -23.2564,5.4018 0,0 9.5411,4.4195 7.1558,6.8748 -2.3853,2.4554 -8.3485,3.9285 -8.3485,3.9285 l -1.1926,6.3839 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 1268.3681,3059.9358 c 23.2564,8.3485 32.2011,16.1006 28.0269,20.8712 9.5411,2.3852 13.119,64.4023 4.1742,75.7323 -0.5963,1.1927 -4.7705,4.7706 -2.9816,5.3669 1.789,0.5963 12.5227,-1.1926 14.3117,1.1926 1.7889,2.3853 -16.1006,36.3754 -13.7154,37.5681 2.3853,1.1926 57.2466,-21.4675 64.9987,-16.1006 7.7521,5.3668 3.5779,19.0821 5.9632,19.6785 2.3852,0.5963 24.449,-2.9816 27.4306,-2.3853 2.9816,0.5963 8.3484,18.4858 11.33,19.0822 2.9816,0.5963 16.6969,-7.7522 19.0822,-7.1559 2.3853,0.5964 1.1926,15.5043 4.1742,16.1006 2.9816,0.5963 16.1006,-12.5226 17.8896,-11.9263 1.7889,0.5963 8.3484,30.4122 11.33,32.2011 2.9816,1.789 22.0638,-32.7974 23.8527,-33.3938 1.789,-0.5963 13.119,40.5496 15.5043,41.146 2.3853,0.5963 14.3116,-28.027 16.1006,-27.4307 1.7889,0.5964 13.119,17.2933 15.5042,18.4859 2.3853,1.1926 17.8896,-36.9717 20.2748,-36.9717 2.3853,0 22.6601,16.1006 24.4491,19.0822 1.7889,2.9816 3.5779,-15.5043 5.9631,-15.5043 2.3853,0 29.8159,10.7337 30.4123,10.1374 0.5963,-0.5963 -4.1743,-11.9264 -2.3853,-11.9264 1.7889,0 29.8159,14.908 31.0085,11.9264 1.1926,-2.9816 60.8244,14.9079 64.9987,12.5227 4.1742,-2.3853 -26.8343,-48.8981 -23.8528,-52.476 2.9816,-3.5779 13.7154,0.5963 14.3117,-1.1926 0.5963,-1.789 -6.5595,-9.5411 -4.7706,-11.9264 1.789,-2.3853 22.0638,-11.9263 23.8527,-14.9079 1.789,-2.9816 -8.9447,-10.7338 -6.5595,-12.5227 2.3853,-1.789 37.5681,-13.119 38.1644,-16.1006 0.5963,-2.9816 -17.8895,-17.2932 -15.5043,-21.4674 2.3853,-4.1743 8.9448,-5.9632 8.3485,-8.9448 -0.5963,-2.9816 -11.9264,-6.5595 -11.3301,-9.5411 0.5964,-2.9816 6.5595,-17.8895 8.3485,-20.2748 1.7889,-2.3853 -12.5227,-1.1926 -12.5227,-3.5779 0,-2.3853 52.476,-66.1913 51.2833,-84.0808 -18.4858,11.33 -81.6955,31.6048 -101.374,26.8343 -19.6785,-4.7706 -11.9263,-34.5864 -14.9079,-36.3754 -2.9816,-1.789 -25.0454,10.1374 -28.027,5.9632 -2.9816,-4.1742 -4.1742,-11.9264 -6.5595,-11.9264 -2.3852,0 -16.1006,16.6969 -19.0821,16.1006 -2.9816,-0.5963 -31.0086,-26.8343 -35.1828,-27.4306 -4.1742,-0.5963 -20.2748,10.1374 -23.8527,10.7337 -3.5779,0.5963 -6.5595,-14.3116 -9.5411,-13.119 -2.9816,1.1926 -22.0638,11.9264 -25.0453,10.7337 -2.9816,-1.1926 -5.3669,-5.9631 -7.7522,-4.7705 -2.3852,1.1926 -13.119,5.9632 -13.119,5.9632 0,0 -7.7521,-3.5779 -11.33,-3.5779 -3.5779,0 -28.0269,19.6784 -31.0085,20.8711 -2.9816,1.1926 -28.6233,-45.3202 -26.8343,-48.8981 1.7889,-3.5779 -26.8343,49.4944 -31.0086,51.2834 -4.1742,1.7889 -16.6969,-3.578 -17.8895,-1.789 -1.1926,1.789 -4.7705,11.33 -8.3485,11.9264 -3.5779,0.5963 -11.9263,2.9815 -11.9263,2.9815 l 1.1926,3.578 c 0,0 -25.0453,-9.5411 -28.0269,-13.119 -2.9816,-3.5779 1.7889,15.5042 3.5779,20.2748 -10.7337,-4.7706 -42.3386,-14.908 -44.7238,-17.8896 -2.3853,-2.9816 4.1742,10.7338 7.7521,14.908 -4.7706,-1.789 -8.9448,-2.3853 -8.9448,-2.3853 l 13.7153,14.3116 -4.1742,1.1927 c 0,0 8.9448,6.5595 8.9448,9.5411 0,2.9815 -23.2564,6.5595 -23.2564,6.5595 0,0 9.5411,5.3668 7.1558,8.3484 -2.3853,2.9816 -8.3485,4.7705 -8.3485,4.7705 l -1.1926,7.7522 z"
        id="path5888"
        inkscape:connector-curvature="0" />
     <path
@@ -583,8 +655,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccsc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 1284.1587,2782.6161 c 9.0126,-44.9313 42.281,-71.6681 60.9309,-81.0888 18.6499,-9.4206 234.1133,-19.9652 281.0921,-21.4343 46.9788,-1.469 183.0466,-1.9443 242.107,25.7939 59.0604,27.7382 80.8427,64.8541 81.6037,86.1489 0.7609,21.2948 -21.2377,78.0257 -133.0462,95.1181 -111.8085,17.0924 -227.6212,14.4598 -270.5396,11.2063 -42.9183,-3.2534 -174.9293,-5.9233 -215.3398,-43.0821 -40.4105,-37.1588 -46.0599,-45.8468 -46.8081,-72.662 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1294.1424,2775.8828 c 8.6749,-44.9519 41.0088,-71.7653 59.1473,-81.2289 18.1385,-9.4636 227.9142,-20.5044 273.6547,-22.0817 45.7406,-1.5772 178.2305,-2.3659 235.8005,25.2362 57.57,27.6021 78.863,64.6677 79.6517,85.9607 0.7886,21.293 -20.5044,78.0744 -129.3354,95.4243 -108.831,17.3499 -221.6052,14.984 -263.4026,11.8294 -41.7974,-3.1545 -170.3441,-5.5204 -209.7756,-42.586 -39.4316,-37.0656 -44.952,-45.7406 -45.7406,-72.554 z"
        id="path5909"
        inkscape:connector-curvature="0" />
     <path
@@ -601,7 +673,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5798"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-31.120587,21.590114)"><flowRegion
          id="flowRegion5800"><rect
            id="rect5802"
@@ -611,14 +683,14 @@
            y="2671.1877"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara5804"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle">لحسنِ حظي،</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;">لحسنِ حظي،</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;"
          id="flowPara3474"> لا يزالُ لدي يومٌ كاملٌ للتحضير!</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara5806"> </flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         id="flowPara5806" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5798-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.2105727,0,0,1.3236545,-490.49985,-506.5586)"><flowRegion
          id="flowRegion5800-2"><rect
            id="rect5802-6"
@@ -627,7 +699,7 @@
            x="1291.4982"
            y="2671.1877"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.19856644px;line-height:1.25;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.19856644px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;"
          id="flowPara5840">سأفوز بهذا التحدي!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -637,50 +709,50 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3755"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:#b66e52;stroke-width:2.14256354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:none"
        transform="matrix(0.8367412,-0.22855384,0.56384526,0.88734829,-947.09021,424.78363)"><flowRegion
          id="flowRegion3757"
-         style="fill:url(#linearGradient5441);fill-opacity:1;stroke-width:2.14256354;stroke-miterlimit:4;stroke-dasharray:none;stroke:#b66e52;stroke-opacity:1;"><rect
+         style="fill:url(#linearGradient5441);fill-opacity:1"><rect
            id="rect3759"
            width="943.26337"
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1;stroke-width:2.14256354;stroke-miterlimit:4;stroke-dasharray:none;stroke:#b66e52;stroke-opacity:1;" /></flowRegion><flowPara
+           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient5439);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.98972321px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient5443-3-4);fill-opacity:1;stroke-width:2.14256354;stroke-miterlimit:4;stroke-dasharray:none;stroke:#b66e52;stroke-opacity:1;">تحدي الجرعات</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.98972321px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3474);fill-opacity:1;stroke-width:2.14256354;stroke-miterlimit:4;stroke-dasharray:none;stroke:#b66e52;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.98972321px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient5443-3-4);fill-opacity:1">تحدي الجرعات</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.98972321px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3474);fill-opacity:1"
          id="flowPara3476"> في كومانا</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.69361576,-0.20166123,0.57449352,0.72358823,-730.76468,896.68636)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:#b66e52;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-width:2.54463379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3393);fill-opacity:1;stroke:none"
        id="flowRoot3351"
        xml:space="preserve"><flowRegion
-         style="fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.54463379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         style="fill:url(#linearGradient3375);fill-opacity:1"
          id="flowRegion3353"><rect
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.54463379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3373);fill-opacity:1"
            y="1655.0723"
            x="296.72992"
            height="841.94098"
            width="943.26337"
            id="rect3355" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.61584473px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.54463379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.6158435px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3383);fill-opacity:1;"
          id="flowPara3363">  ٥٠,٠٠٠ كو الجائزة الكبرى</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.61584473px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.54463379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.6158435px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3385);fill-opacity:1;"
          id="flowPara3371">لأحسن جرعة</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3395"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;stroke:#b66e52;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-width:2.39564618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.07809448px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3437);fill-opacity:1;stroke:none"
        transform="matrix(0.72574754,-0.21924646,0.64292284,0.76612366,-708.45766,1102.4502)"><flowRegion
          id="flowRegion3397"
-         style="fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.39564618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"><rect
+         style="fill:url(#linearGradient3419);fill-opacity:1"><rect
            id="rect3399"
            width="943.26337"
            height="841.94098"
            x="296.72992"
            y="1655.0723"
-           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.39564618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" /></flowRegion><flowPara
+           style="font-size:67.07809448px;text-align:center;text-anchor:middle;fill:url(#linearGradient3417);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3413"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.39564618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">في يوم آزار، الثالث من القمر الوردي</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3433);fill-opacity:1;">في يوم آزار، الثالث من القمر الوردي</flowPara><flowPara
          id="flowPara3415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;line-height:1.25;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3184);fill-opacity:1;font-variant-east_asian:normal;vector-effect:none;stroke:#b66e52;stroke-width:2.39564618;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">الساحة الكبرى لكومانا</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.89115143px;font-family:Tholoth;-inkscape-font-specification:Tholoth;fill:url(#linearGradient3435);fill-opacity:1;">الساحة الكبرى لكومانا</flowPara></flowRoot>  </g>
 </svg>

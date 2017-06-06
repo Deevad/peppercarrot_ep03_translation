@@ -11,11 +11,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="663"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P00_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P00.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -38,15 +38,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.20035922"
-     inkscape:cx="522.32667"
-     inkscape:cy="302.6695"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="512.3446"
+     inkscape:cy="352.57986"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -57,7 +57,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none"
        transform="translate(-701.81836,-122.27392)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -67,16 +67,17 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1">i ci moi pagbu fa la'e lu lo cizra se mixre li'u</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1">i ci moi pagbu fa la'e lu lo cizra se mixre li'u</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="167.86595"
        y="387.72501"
-       id="text3471"><tspan
+       id="text3471"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3473"
          x="167.86595"
          y="387.72501"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:250px;line-height:1.25;font-family:Jester;-inkscape-font-specification:'Jester Thin';fill:#301b0b">la piper jo'u la karot</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:250px;font-family:Jester;-inkscape-font-specification:'Jester Thin';fill:#301b0b">la piper jo'u la karot</tspan></text>
   </g>
 </svg>

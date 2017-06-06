@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P07.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -54,15 +54,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="750"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46427222"
-     inkscape:cx="1226.0853"
-     inkscape:cy="3064.5653"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1221.7775"
+     inkscape:cy="3068.8731"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -71,13 +71,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
+       sodipodi:absref="/home/next_ghost/src/pepper_carrot/ep3/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -146,7 +146,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(408.71268,-137.28313)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -155,15 +155,15 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3017">Tak, Karotko,</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3392">a teď máme všechno,</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3396">co budu potřebovat</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(290.71434,874.58695)"><flowRegion
          id="flowRegion2989-57"><rect
            id="rect2991-1"
@@ -172,13 +172,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3017-3">Vypadá to...</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(297.95115,977.80802)"><flowRegion
          id="flowRegion2989-57-9"><rect
            id="rect2991-1-7"
@@ -187,13 +187,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3017-3-3">...perfektně</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057-7"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057-7" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(215.17296,1914.6074)"><flowRegion
          id="flowRegion2989-57-9-5"><rect
            id="rect2991-1-7-6"
@@ -202,13 +202,13 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3017-3-3-0">Mňam...</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057-7-3"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057-7-3" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-8-6-0-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.0270069,0,0,1.0526176,183.3772,2036.5853)"><flowRegion
          id="flowRegion2989-57-9-5-4"><rect
            id="rect2991-1-7-6-9"
@@ -217,15 +217,15 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:64px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:64px;text-align:center;text-anchor:middle"
          id="flowPara3149">Nejlepší kafe,</flowPara><flowPara
-         style="font-size:64px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:64px;text-align:center;text-anchor:middle"
          id="flowPara3400">co jsem kdy pila!</flowPara><flowPara
-         style="font-size:64px;line-height:1.25;text-align:center;text-anchor:middle"
-         id="flowPara3057-7-3-2"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3057-7-3-2" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(160.92268,2382.282)"><flowRegion
          id="flowRegion2989-3"><rect
            id="rect2991-15"
@@ -234,17 +234,17 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3195">Teď můžu pracovat</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3416">celou noc a namíchat</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3420">na zítřejší soutěž ten</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3424">nejlepší lektvar</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1788.1297,3159.1742)"><flowRegion
          id="flowRegion2989-3-2"><rect
            id="rect2991-15-0"
@@ -253,6 +253,6 @@
            x="-264.99716"
            y="259.06873"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:end;text-anchor:end"
+         style="font-size:48px;text-align:end;text-anchor:end"
          id="flowPara3195-9">Pokračování příště...</flowPara></flowRoot>  </g>
 </svg>

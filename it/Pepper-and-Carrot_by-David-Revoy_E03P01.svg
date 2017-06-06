@@ -12,27 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03P01.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="876.9231"
-     inkscape:cy="1611.1204"
-     inkscape:current-layer="layer3"
-     inkscape:snap-nodes="false"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -56,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1408"
+     inkscape:window-height="855"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52402204"
-     inkscape:cx="1167.6337"
-     inkscape:cy="349.34683"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1163.8171"
+     inkscape:cy="353.16346"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -74,7 +57,7 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep03_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03P01.png"
        y="0"
        x="0"
@@ -108,8 +91,8 @@
        id="path4035"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2017.5302,2537.9439 c -1.3295,-21.6446 9.3065,-19.3661 14.6246,-22.7837 -5.3181,-18.2271 6.6475,-38.7326 51.8506,-45.5677 11.9655,-13.6702 49.1915,-22.7838 73.1226,-10.2527 18.6132,-10.2526 46.5326,-9.1135 57.1687,0 13.2951,-9.1135 29.249,2.2785 30.5786,4.5567 15.954,-4.5567 37.2262,0 45.2031,5.696 21.2721,-6.8351 63.8161,6.8351 61.1572,22.7838 22.6016,12.5311 22.6016,26.2015 14.6245,34.1757 17.2836,10.2527 22.6016,54.6812 -29.249,56.9596 -15.954,15.9486 -55.8393,21.6446 -73.1227,11.3919 -25.2606,3.4175 -41.2147,6.8351 -46.5327,-2.2784 -13.2951,9.1135 -45.2031,7.9742 -34.5671,-7.9745 -16.4227,10.1865 -34.507,6.7485 -48.1897,-0.4163 -25.0849,11.724 -55.4909,5.8619 -53.9705,-6.5134 -34.2067,3.908 -38.0074,-15.6321 -35.7269,-22.7966 -5.3211,-1.3029 -18.2436,-2.6055 -26.9713,-16.9804 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2031.9766,2526.786 c -1.2189,-19.8163 8.5322,-17.7303 13.4078,-20.8592 -4.8756,-16.6875 6.0944,-35.4608 47.5364,-41.7186 10.9699,-12.5155 45.0985,-20.8593 67.0384,-9.3867 17.0644,-9.3866 42.6608,-8.3437 52.4119,0 12.1889,-8.3437 26.8154,2.086 28.0343,4.1719 14.6265,-4.1719 34.1288,0 41.442,5.2148 19.5021,-6.2578 58.5063,6.2578 56.0686,20.8593 20.721,11.4726 20.721,23.9882 13.4077,31.2889 15.8454,9.3867 20.721,50.0623 -26.8154,52.1482 -14.6266,14.6015 -51.1931,19.8163 -67.0385,10.4296 -23.1588,3.1289 -37.7854,6.2578 -42.6609,-2.0859 -12.1889,8.3437 -41.442,7.3007 -31.6909,-7.3008 -15.0563,9.326 -31.6359,6.1783 -44.1801,-0.3812 -22.9977,10.7337 -50.8737,5.3668 -49.4799,-5.9632 -31.3605,3.5779 -34.845,-14.3117 -32.7542,-20.8711 -4.8784,-1.1927 -16.7257,-2.3853 -24.7272,-15.546 z"
        id="path4043"
        inkscape:connector-curvature="0" />
     <path
@@ -132,7 +115,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(85.65573,-114.20763)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -142,12 +125,12 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-size:48px;line-height:1.25">Komona City;</flowPara><flowPara
+         style="font-size:48px">Komona City;</flowPara><flowPara
          id="flowPara2995"
-         style="font-size:48px;line-height:1.25">        Giorno di mercato</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px">        Giorno di mercato</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(55.1466,1940.1603)"><flowRegion
          id="flowRegion2989-5"><rect
            id="rect2991-7"
@@ -155,18 +138,18 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          id="flowPara2995-2"
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle">Buongiorno Signore,</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle">Buongiorno Signore,</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3029">vorrei otto</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3031">zucche stellate,</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3033">per favore</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(872.44277,1931.2801)"><flowRegion
          id="flowRegion2989-5-4"><rect
            id="rect2991-7-9"
@@ -174,14 +157,14 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3033-8">Eccole,</flowPara><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3080">sono 60Ko*</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(1776.1862,2227.6016)"><flowRegion
          id="flowRegion2989-5-4-7"><rect
            id="rect2991-7-9-4"
@@ -189,12 +172,12 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3080-9">...Oh accidenti</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="matrix(0.66530597,0,0,0.68592152,838.12036,3217.8881)"><flowRegion
          id="flowRegion2989-5-4-7-7"><rect
            id="rect2991-7-9-4-3"
@@ -202,7 +185,7 @@
            height="56.407585"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;line-height:1.25;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
          id="flowPara3080-9-7">* Ko = moneta della città di Komona</flowPara></flowRoot>  </g>
 </svg>

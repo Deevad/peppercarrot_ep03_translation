@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.48.4 r9939"
    width="1100"
    height="765"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -235,14 +235,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.73494737"
-     inkscape:cx="470.81078"
-     inkscape:cy="303.47431"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="468.0895"
+     inkscape:cy="317.08073"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -251,27 +251,28 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
+     sodipodi:absref="/home/deevad/Production/Webcomics/2014-10-02_ep03_The-secret-ingredients/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3738)"
+       style="font-size:33.375px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3738);font-family:sans-serif"
        x="161.80687"
        y="736.50989"
-       id="text3394"><tspan
+       id="text3394"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="161.80687"
          y="736.50989"
          id="tspan3398"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';fill:#ffffff;fill-opacity:1">3වන කතාංගය : රහස් වට්ටෝරුව</tspan></text>
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:BhashitaComplex;-inkscape-font-specification:BhashitaComplex Bold">3වන කතාංගය : රහස් වට්ටෝරුව</tspan></text>
   </g>
 </svg>

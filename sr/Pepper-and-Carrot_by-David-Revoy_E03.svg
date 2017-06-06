@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="1100"
    height="765"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03_092.svg">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E03.svg">
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -104,15 +104,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.63908467"
-     inkscape:cx="574.04994"
-     inkscape:cy="361.31455"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="570.92046"
+     inkscape:cy="376.96193"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -121,13 +121,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep03_The-secret-ingredients/lang/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
+     sodipodi:absref="/run/media/milenche/Data/Projekti/Pepper and Carrot Translations/peppercarrot_ep03_translation/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E03.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -135,7 +135,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;filter:url(#filter3836)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;filter:url(#filter3836)"
        transform="matrix(0.69723552,0,0,0.69723552,-804.20841,245.15998)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
@@ -145,5 +145,5 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Епизода 3: Тајни састојци</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Епизода 3: Тајни састојци</flowPara></flowRoot>  </g>
 </svg>

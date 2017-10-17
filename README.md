@@ -43,6 +43,8 @@ License
 
 * French: David Revoy
 
+* Gallo: Patrik Deriano / Gwenaelle Lefeuvre
+
 * German: Helmar Suschka / Alexandra Jordan
 
 * Greek: Dimitris Axiotis / George Karettas
